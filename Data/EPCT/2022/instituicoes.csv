@@ -1,0 +1,645 @@
+SIGLA_INSTITUICAO,NOME_INSTITUICAO,NOME_UNIDADE_ENSINO,ANO,SIGLA_UF_UNIDADE_ENSINO,NOME_MUNICIPIO_UNIDADE_ENSINO
+IFPR,Instituto Federal do Paraná,Campus Jacarezinho,2010,PR,Jacarezinho
+IFBA,Instituto Federal da Bahia,Campus Jequié,2010,BA,Jequié
+IFRO,Instituto Federal de Rondônia,Campus Ji-Paraná,2010,RO,Ji-Paraná
+IFMT,Instituto Federal de Mato Grosso,Campus Juína,2010,MT,Juína
+IF Farroupilha,Instituto Federal Farroupilha,Campus Júlio de Castilhos,2010,RS,Júlio de Castilhos
+IFAM,Instituto Federal do Amazonas,Campus Lábrea,2010,AM,Lábrea
+IFSC,Instituto Federal de Santa Catarina,Campus Lages,2010,SC,Lages
+IFAP,Instituto Federal do Amapá,Campus Laranjal do Jari,2010,AP,Laranjal do Jari
+IFG,Instituto Federal de Goiás,Campus Luziânia,2010,GO,Luziânia
+IFAP,Instituto Federal do Amapá,Campus Macapá,2010,AP,Macapá
+IFPA,Instituto Federal do Pará,Campus Marabá Rural,2010,PA,Marabá
+IFAM,Instituto Federal do Amazonas,Campus Maués,2010,AM,Maués
+IFPB,Instituto Federal da Paraíba,Campus Monteiro,2010,PB,Monteiro
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Montes Claros,2010,MG,Montes Claros
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Muriaé,2010,MG,Muriaé
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Nova Andradina,2010,MS,Nova Andradina
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Osório,2010,RS,Osório
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Ouricuri,2010,PE,Ouricuri
+IF Farroupilha,Instituto Federal Farroupilha,Campus Panambi,2010,RS,Panambi
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Paracatu,2010,MG,Paracatu
+IFPR,Instituto Federal do Paraná,Campus Paranavaí,2010,PR,Paranavaí
+IFAM,Instituto Federal do Amazonas,Campus Parintins,2010,AM,Parintins
+IFPB,Instituto Federal da Paraíba,Campus Patos,2010,PB,Patos
+IFPI,Instituto Federal do Piauí,Campus Paulistana,2010,PI,Paulistana
+IFBA,Instituto Federal da Bahia,Campus Paulo Afonso,2010,BA,Paulo Afonso
+IFAL,Instituto Federal de Alagoas,Campus Penedo,2010,AL,Penedo
+IFPB,Instituto Federal da Paraíba,Campus Picuí,2010,PB,Picuí
+IFMA,Instituto Federal do Maranhão,Campus Pinheiro,2010,MA,Pinheiro
+IFSP,Instituto Federal de São Paulo,Campus Piracicaba,2010,SP,Piracicaba
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Pirapora,2010,MG,Pirapora
+IFPI,Instituto Federal do Piauí,Campus Piripiri,2010,PI,Piripiri
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Porto Alegre Restinga,2010,RS,Porto Alegre
+IFTO,Instituto Federal do Tocantins,Campus Porto Nacional,2010,TO,Porto Nacional
+IFRO,Instituto Federal de Rondônia,Campus Porto Velho Zona Norte,2010,RO,Porto Velho
+IFSP,Instituto Federal de São Paulo,Campus Presidente Epitácio,2010,SP,Presidente Epitácio
+IFAM,Instituto Federal do Amazonas,Campus Presidente Figueiredo,2010,AM,Presidente Figueiredo
+IFPB,Instituto Federal da Paraíba,Campus Princesa Isabel,2010,PB,Princesa Isabel
+IFSP,Instituto Federal de São Paulo,Campus Registro,2010,SP,Registro
+IFAC,Instituto Federal do Acre,Campus Rio Branco,2010,AC,Rio Branco
+CPII,Colégio Pedro II,Campus Realengo I,2010,RJ,Rio de Janeiro
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Realengo,2010,RJ,Rio de Janeiro
+IFMT,Instituto Federal de Mato Grosso,Campus Rondonópolis,2010,MT,Rondonópolis
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Salgueiro,2010,PE,Salgueiro
+IFMA,Instituto Federal do Maranhão,Campus Santa Inês - IFMA,2010,MA,Santa Inês
+IF Farroupilha,Instituto Federal Farroupilha,Campus Santa Rosa,2010,RS,Santa Rosa
+IFPA,Instituto Federal do Pará,Campus Santarém,2010,PA,Santarém
+IF Farroupilha,Instituto Federal Farroupilha,Campus São Borja,2010,RS,São Borja
+IFRJ,Instituto Federal do Rio de Janeiro,Campus São Gonçalo,2010,RJ,São Gonçalo
+IFMA,Instituto Federal do Maranhão,Campus São João dos Patos,2010,MA,São João dos Patos
+IFMA,Instituto Federal do Maranhão,Campus São Luís Centro Histórico,2010,MA,São Luís
+IFSC,Instituto Federal de Santa Catarina,Campus São Miguel do Oeste,2010,SC,São Miguel do Oeste
+IFMA,Instituto Federal do Maranhão,Campus São Raimundo das Mangabeiras,2010,MA,São Raimundo das Mangabeiras
+IFPI,Instituto Federal do Piauí,Campus São Raimundo Nonato,2010,PI,São Raimundo Nonato
+IFBA,Instituto Federal da Bahia,Campus Seabra,2010,BA,Seabra
+IFAC,Instituto Federal do Acre,Campus Sena Madureira,2010,AC,Sena Madureira
+IFSP,Instituto Federal de São Paulo,Campus Suzano,2010,SP,Suzano
+IFAM,Instituto Federal do Amazonas,Campus Tabatinga,2010,AM,Tabatinga
+IF Baiano,Instituto Federal Baiano,Campus Teixeira de Freitas,2010,BA,Teixeira de Freitas
+IFPR,Instituto Federal do Paraná,Campus Telêmaco Borba,2010,PR,Telêmaco Borba
+IFPI,Instituto Federal do Piauí,Campus Teresina Zona Sul,2010,PI,Teresina
+IFMA,Instituto Federal do Maranhão,Campus Timon,2010,MA,Timon
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Uberlândia,2010,MG,Uberlândia
+IFPR,Instituto Federal do Paraná,Campus Umuarama,2010,PR,Umuarama
+IFPI,Instituto Federal do Piauí,Campus Uruçuí,2010,PI,Uruçuí
+IF Baiano,Instituto Federal Baiano,Campus Valença,2010,BA,Valença
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Varginha,2010,MG,Varginha
+IFC,Instituto Federal Catarinense,Campus Videira,2010,SC,Videira
+IFES,Instituto Federal do Espírito Santo,Campus Vila Velha,2010,ES,Vila Velha
+IFRO,Instituto Federal de Rondônia,Campus Vilhena,2010,RO,Vilhena
+IFSP,Instituto Federal de São Paulo,Campus Votuporanga,2010,SP,Votuporanga
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Aquidauana,2011,MS,Aquidauana
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Campo Grande,2011,MS,Campo Grande
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Corumbá,2011,MS,Corumbá
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Coxim,2011,MS,Coxim
+IFBA,Instituto Federal da Bahia,Campus Feira de Santana,2011,BA,Feira de Santana
+IFBA,Instituto Federal da Bahia,Campus Ilhéus,2011,BA,Ilhéus
+IFBA,Instituto Federal da Bahia,Campus Jacobina,2011,BA,Jacobina
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Ponta Porã,2011,MS,Ponta Porã
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Três Lagoas,2011,MS,Três Lagoas
+IF Baiano,Instituto Federal Baiano,Campus Uruçuca,2011,BA,Uruçuca
+IFSul,Instituto Federal Sul-rio-grandense,Campus Venâncio Aires,2011,RS,Venâncio Aires
+IFG,Instituto Federal de Goiás,Campus Aparecida de Goiânia,2012,GO,Aparecida de Goiânia
+CPII,Colégio Pedro II,Campus Duque de Caxias CP,2012,RJ,Duque de Caxias
+IFG,Instituto Federal de Goiás,Campus Cidade de Goiás,2012,GO,Goiás
+IFAL,Instituto Federal de Alagoas,Campus Piranhas,2012,AL,Piranhas
+IFCE,Instituto Federal do Ceará,Campus Aracati,2013,CE,Aracati
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Arraial do Cabo,2013,RJ,Arraial do Cabo
+IFPR,Instituto Federal do Paraná,Campus Assis Chateaubriand,2013,PR,Assis Chateaubriand
+IFCE,Instituto Federal do Ceará,Campus Baturité,2013,CE,Baturité
+IFMG,Instituto Federal de Minas Gerais,Campus Betim,2013,MG,Betim
+IFC,Instituto Federal Catarinense,Campus Blumenau,2013,SC,Blumenau
+IFRR,Instituto Federal de Roraima,Campus Boa Vista Zona Oeste,2013,RR,Boa Vista
+IFSP,Instituto Federal de São Paulo,Campus Boituva,2013,SP,Boituva
+IFB,Instituto Federal de Brasília,Campus Ceilândia,2013,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus Estrutural,2013,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus Recanto das Emas,2013,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus Riacho Fundo,2013,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus São Sebastião,2013,DF,Brasília
+IFPA,Instituto Federal do Pará,Campus Breves,2013,PA,Breves
+IFBA,Instituto Federal da Bahia,Campus Brumado,2013,BA,Brumado
+IFC,Instituto Federal Catarinense,Campus Brusque,2013,SC,Brusque
+IFPE,Instituto Federal de Pernambuco,Campus Cabo de Santo Agostinho,2013,PE,Cabo de Santo Agostinho
+IFSC,Instituto Federal de Santa Catarina,Campus Caçador,2013,SC,Caçador
+IFRO,Instituto Federal de Rondônia,Campus Cacoal,2013,RO,Cacoal
+IFCE,Instituto Federal do Ceará,Campus Camocim,2013,CE,Camocim
+IFPR,Instituto Federal do Paraná,Campus Campo Largo,2013,PR,Campo Largo
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Canguaretama,2013,RN,Canguaretama
+IFSP,Instituto Federal de São Paulo,Campus Capivari,2013,SP,Capivari
+IFCE,Instituto Federal do Ceará,Campus Caucaia,2013,CE,Caucaia
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Ceará-Mirim,2013,RN,Ceará-Mirim
+IFMA,Instituto Federal do Maranhão,Campus Coelho Neto,2013,MA,Coelho Neto
+IFTO,Instituto Federal do Tocantins,Campus Dianópolis,2013,TO,Dianópolis
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Engenheiro Paulo de Frontin,2013,RJ,Engenheiro Paulo de Frontin
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Farroupilha,2013,RS,Farroupilha
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Feliz,2013,RS,Feliz
+IFC,Instituto Federal Catarinense,Campus Fraiburgo,2013,SC,Fraiburgo
+IFSC,Instituto Federal de Santa Catarina,Campus Garopaba,2013,SC,Garopaba
+IF Baiano,Instituto Federal Baiano,Campus Governador Mangabeira,2013,BA,Governador Mangabeira
+IFMA,Instituto Federal do Maranhão,Campus Grajaú,2013,MA,Grajaú
+IFSul,Instituto Federal Sul-rio-grandense,Campus Gravataí,2013,RS,Gravataí
+IFPB,Instituto Federal da Paraíba,Campus Guarabira,2013,PB,Guarabira
+IFES,Instituto Federal do Espírito Santo,Campus Guarapari,2013,ES,Guarapari
+IFAM,Instituto Federal do Amazonas,Campus Humaitá,2013,AM,Humaitá
+IFC,Instituto Federal Catarinense,Campus Ibirama,2013,SC,Ibirama
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Ibirubá,2013,RS,Ibirubá
+IFPR,Instituto Federal do Paraná,Campus Irati,2013,PR,Irati
+IFPR,Instituto Federal do Paraná,Campus Ivaiporã,2013,PR,Ivaiporã
+IFPE,Instituto Federal de Pernambuco,Campus Jaboatão dos Guararapes,2013,PE,Jaboatão dos Guararapes
+IF Farroupilha,Instituto Federal Farroupilha,Campus Jaguari,2013,RS,Jaguari
+IFCE,Instituto Federal do Ceará,Campus Jaguaribe,2013,CE,Jaguaribe
+IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul Rau,2013,SC,Jaraguá do Sul
+IFSul,Instituto Federal Sul-rio-grandense,Campus Lajeado,2013,RS,Lajeado
+IFPR,Instituto Federal do Paraná,Campus Londrina,2013,PR,Londrina
+IFC,Instituto Federal Catarinense,Campus Luzerna,2013,SC,Luzerna
+IFSP,Instituto Federal de São Paulo,Campus Matão,2013,SP,Matão
+IFCE,Instituto Federal do Ceará,Campus Morada Nova,2013,CE,Morada Nova
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Cidade Alta,2013,RN,Natal
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Nova Cruz,2013,RN,Nova Cruz
+IFPA,Instituto Federal do Pará,Campus Óbidos,2013,PA,Óbidos
+IFPI,Instituto Federal do Piauí,Campus Oeiras,2013,PI,Oeiras
+IFMG,Instituto Federal de Minas Gerais,Campus Ouro Branco,2013,MG,Ouro Branco
+IFSC,Instituto Federal de Santa Catarina,Campus Palhoça,2013,SC,Palhoça
+IFPR,Instituto Federal do Paraná,Campus Palmas - IFPR,2013,PR,Palmas
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Parnamirim,2013,RN,Parnamirim
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Passos,2013,MG,Passos
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Patos de Minas,2013,MG,Patos de Minas
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Patrocínio,2013,MG,Patrocínio
+IFMA,Instituto Federal do Maranhão,Campus Pedreiras,2013,MA,Pedreiras
+IFPI,Instituto Federal do Piauí,Campus Pedro II,2013,PI,Pedro II
+IFSul,Instituto Federal Sul-rio-grandense,Campus Pelotas Visconde da Graça,2013,RS,Pelotas
+IFES,Instituto Federal do Espírito Santo,Campus Piúma,2013,ES,Piúma
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Poços de Caldas,2013,MG,Poços de Caldas
+IFRO,Instituto Federal de Rondônia,Campus Porto Velho Calama,2013,RO,Porto Velho
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Pouso Alegre,2013,MG,Pouso Alegre
+IFMT,Instituto Federal de Mato Grosso,Campus Primavera do Leste,2013,MT,Primavera do Leste
+IFF,Instituto Federal Fluminense,Campus Quissamã,2013,RJ,Quissamã
+IFMG,Instituto Federal de Minas Gerais,Campus Ribeirão das Neves,2013,MG,Ribeirão das Neves
+IFMG,Instituto Federal de Minas Gerais,Campus Sabará,2013,MG,Sabará
+IFMG,Instituto Federal de Minas Gerais,Campus Santa Luzia - IFMG,2013,MG,Santa Luzia
+IFAL,Instituto Federal de Alagoas,Campus Santana do Ipanema,2013,AL,Santana do Ipanema
+IFSul,Instituto Federal Sul-rio-grandense,Campus Santana do Livramento,2013,RS,Sant'Ana do Livramento
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Santos Dumont,2013,MG,Santos Dumont
+IFSC,Instituto Federal de Santa Catarina,Campus São Carlos - IFSC,2013,SC,São Carlos
+IFC,Instituto Federal Catarinense,Campus São Francisco do Sul,2013,SC,São Francisco do Sul
+IFRN,Instituto Federal do Rio Grande do Norte,Campus São Gonçalo do Amarante,2013,RN,São Gonçalo do Amarante
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus São João del Rei,2013,MG,São João del-Rei
+IFPI,Instituto Federal do Piauí,Campus São João do Piauí,2013,PI,São João do Piauí
+IFSP,Instituto Federal de São Paulo,Campus São José dos Campos,2013,SP,São José dos Campos
+IFAL,Instituto Federal de Alagoas,Campus São Miguel dos Campos,2013,AL,São Miguel dos Campos
+IFRN,Instituto Federal do Rio Grande do Norte,Campus São Paulo do Potengi,2013,RN,São Paulo do Potengi
+IFSul,Instituto Federal Sul-rio-grandense,Campus Sapiranga,2013,RS,Sapiranga
+IFMT,Instituto Federal de Mato Grosso,Campus Sorriso,2013,MT,Sorriso
+IFCE,Instituto Federal do Ceará,Campus Tabuleiro do Norte,2013,CE,Tabuleiro do Norte
+IFAC,Instituto Federal do Acre,Campus Tarauacá,2013,AC,Tarauacá
+CPII,Colégio Pedro II,Campus São Cristóvão II,1888,RJ,Rio de Janeiro
+IFS,Instituto Federal de Sergipe,Campus Aracaju,1909,SE,Aracaju
+IFPA,Instituto Federal do Pará,Campus Belém,1909,PA,Belém
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Unidade Belo Horizonte,1909,MG,Belo Horizonte
+IFF,Instituto Federal Fluminense,Campus Campos Centro,1909,RJ,Campos dos Goytacazes
+IFPB,Instituto Federal da Paraíba,Campus João Pessoa,1909,PB,Coronel João Pessoa
+IFMT,Instituto Federal de Mato Grosso,Campus Cuiabá,1909,MT,Cuiabá
+IFSC,Instituto Federal de Santa Catarina,Campus Florianópolis,1909,SC,Florianópolis
+IFCE,Instituto Federal do Ceará,Campus Fortaleza,1909,CE,Fortaleza
+IFAL,Instituto Federal de Alagoas,Campus Maceió,1909,AL,Maceió
+IFAM,Instituto Federal do Amazonas,Campus Manaus Centro,1909,AM,Manaus
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Central,1909,RN,Natal
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Porto Alegre,1909,RS,Porto Alegre
+IFBA,Instituto Federal da Bahia,Campus Salvador,1909,BA,Salvador
+IFMA,Instituto Federal do Maranhão,Campus São Luís Monte Castelo,1909,MA,São Luís
+IFSP,Instituto Federal de São Paulo,Campus São Paulo,1909,SP,São Paulo
+IFPI,Instituto Federal do Piauí,Campus Teresina Central,1909,PI,Teresina
+IFES,Instituto Federal do Espírito Santo,Campus Vitória,1909,ES,Vitória
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Barbacena,1910,MG,Barbacena
+IFAL,Instituto Federal de Alagoas,Campus Satuba,1911,AL,Satuba
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Unidade Maracanã,1917,RJ,Rio de Janeiro
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Inconfidentes,1918,MG,Inconfidentes
+IFPA,Instituto Federal do Pará,Campus Castanhal,1921,PA,Castanhal
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Pinheiral,1934,RJ,Pinheiral
+CPII,Colégio Pedro II,Campus Centro,1938,RJ,Rio de Janeiro
+IFAM,Instituto Federal do Amazonas,Campus Manaus Zona Leste,1940,AM,Manaus
+IFES,Instituto Federal do Espírito Santo,Campus Santa Teresa,1940,ES,Santa Teresa
+IFG,Instituto Federal de Goiás,Campus Goiânia,1942,GO,Goiânia
+IFMG,Instituto Federal de Minas Gerais,Campus Ouro Preto,1942,MG,Ouro Preto
+IFSul,Instituto Federal Sul-rio-grandense,Campus Pelotas,1942,RS,Pelotas
+IFMT,Instituto Federal de Mato Grosso,Campus São Vicente,1943,MT,Santo Antônio de Leverger
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Juiz de Fora,1946,MG,Juiz de Fora
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Machado,1946,MG,Machado
+IFS,Instituto Federal de Sergipe,Campus São Cristóvão,1946,SE,São Cristóvão
+IFPB,Instituto Federal da Paraíba,Campus Sousa,1946,PB,Sousa
+IFES,Instituto Federal do Espírito Santo,Campus Alegre,1947,ES,Alegre
+IFES,Instituto Federal do Espírito Santo,Campus Itapina,1947,ES,Colatina
+IFCE,Instituto Federal do Ceará,Campus Crato,1947,CE,Crato
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Salinas,1947,MG,Salinas
+IFMA,Instituto Federal do Maranhão,Campus São Luís Maracanã,1947,MA,São Luís
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Muzambinho,1948,MG,Muzambinho
+IFMG,Instituto Federal de Minas Gerais,Campus São João Evangelista,1951,MG,São João Evangelista
+CPII,Colégio Pedro II,Campus Engenho Novo II,1952,RJ,Rio de Janeiro
+CPII,Colégio Pedro II,Campus Humaitá II,1952,RJ,Rio de Janeiro
+IFC,Instituto Federal Catarinense,Campus Camboriú,1953,SC,Camboriú
+IF Goiano,Instituto Federal Goiano,Campus Urutaí,1953,GO,Urutaí
+IFC,Instituto Federal Catarinense,Campus Araquari,1954,SC,Araquari
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Uberaba,1954,MG,Uberaba
+IF Farroupilha,Instituto Federal Farroupilha,Campus Frederico Westphalen,1957,RS,Frederico Westphalen
+CPII,Colégio Pedro II,Campus Tijuca II,1957,RJ,Rio de Janeiro
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Sertão,1957,RS,Sertão
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Bento Gonçalves,1959,RS,Bento Gonçalves
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Januária,1960,MG,Januária
+IFCE,Instituto Federal do Ceará,Campus Iguatu,1962,CE,Iguatu
+IF Farroupilha,Instituto Federal Farroupilha,Campus Alegrete,1964,RS,Alegrete
+IF Baiano,Instituto Federal Baiano,Campus Catu,1964,BA,Catu
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Rio Grande,1964,RS,Rio Grande
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Rio Pomba,1964,MG,Rio Pomba
+IFC,Instituto Federal Catarinense,Campus Concórdia,1967,SC,Concórdia
+IFMG,Instituto Federal de Minas Gerais,Campus Bambuí,1968,MG,Bambuí
+IF Goiano,Instituto Federal Goiano,Campus Rio Verde,1968,GO,Rio Verde
+IFF,Instituto Federal Fluminense,Campus Bom Jesus do Itabapoana,1970,RJ,Bom Jesus do Itabapoana
+IFMT,Instituto Federal de Mato Grosso,Campus Cáceres,1980,MT,Cáceres
+CPII,Colégio Pedro II,Campus São Cristóvão I,1984,RJ,Rio de Janeiro
+IFTO,Instituto Federal do Tocantins,Campus Araguatins,1985,TO,Araguatins
+CPII,Colégio Pedro II,Campus Humaitá I,1985,RJ,Rio de Janeiro
+CPII,Colégio Pedro II,Campus Engenho Novo I,1986,RJ,Rio de Janeiro
+IFPA,Instituto Federal do Pará,Campus Altamira,1987,PA,Altamira
+IFSP,Instituto Federal de São Paulo,Campus Cubatão,1987,SP,Cubatão
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Divinópolis,1987,MG,Divinópolis
+IFMA,Instituto Federal do Maranhão,Campus Imperatriz,1987,MA,Imperatriz
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Leopoldina,1987,MG,Leopoldina
+IFPA,Instituto Federal do Pará,Campus Marabá Industrial,1987,PA,Marabá
+CPII,Colégio Pedro II,Campus Tijuca I,1987,RJ,Rio de Janeiro
+IFG,Instituto Federal de Goiás,Campus Jataí,1988,GO,Jataí
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Petrolina,1988,PE,Petrolina
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Petrolina Zona Rural,1988,PE,Petrolina
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Araxá,1992,MG,Araxá
+IFES,Instituto Federal do Espírito Santo,Campus Colatina,1992,ES,Colatina
+IFF,Instituto Federal Fluminense,Campus Macaé,1992,RJ,Macaé
+IFAM,Instituto Federal do Amazonas,Campus Manaus Distrito Industrial,1992,AM,Manaus
+IFAL,Instituto Federal de Alagoas,Campus Palmeira dos Índios,1992,AL,Palmeira dos Índios
+IFBA,Instituto Federal da Bahia,Campus Barreiras,1993,BA,Barreiras
+IF Goiano,Instituto Federal Goiano,Campus Ceres,1993,GO,Ceres
+IFMA,Instituto Federal do Maranhão,Campus Codó,1993,MA,Codó
+IFRO,Instituto Federal de Rondônia,Campus Colorado do Oeste,1993,RO,Colorado do Oeste
+IFBA,Instituto Federal da Bahia,Campus Eunápolis,1993,BA,Eunápolis
+IF Baiano,Instituto Federal Baiano,Campus Guanambi,1993,BA,Guanambi
+IFC,Instituto Federal Catarinense,Campus Rio do Sul,1993,SC,Rio do Sul
+IF Baiano,Instituto Federal Baiano,Campus Santa Inês - IF Baiano,1993,BA,Santa Inês
+IFC,Instituto Federal Catarinense,Campus Santa Rosa do Sul,1993,SC,Santa Rosa do Sul
+IFAM,Instituto Federal do Amazonas,Campus São Gabriel da Cachoeira,1993,AM,São Gabriel da Cachoeira
+IF Baiano,Instituto Federal Baiano,Campus Senhor do Bonfim,1993,BA,Senhor do Bonfim
+IFBA,Instituto Federal da Bahia,Campus Vitória da Conquista,1993,BA,Vitória da Conquista
+IFPB,Instituto Federal da Paraíba,Campus Cajazeiras,1994,PB,Cajazeiras
+IFPI,Instituto Federal do Piauí,Campus Floriano,1994,PI,Floriano
+IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul,1994,SC,Jaraguá do Sul
+IFS,Instituto Federal de Sergipe,Campus Lagarto,1994,SE,Lagarto
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Mossoró,1994,RN,Mossoró
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Nilópolis,1994,RJ,Nilópolis
+IFPA,Instituto Federal do Pará,Campus Tucuruí,1994,PA,Tucuruí
+IFBA,Instituto Federal da Bahia,Campus Valença Tento,1994,BA,Valença
+IFCE,Instituto Federal do Ceará,Campus Cedro,1995,CE,Cedro
+IFCE,Instituto Federal do Ceará,Campus Juazeiro do Norte,1995,CE,Juazeiro do Norte
+IFAL,Instituto Federal de Alagoas,Campus Marechal Deodoro,1995,AL,Marechal Deodoro
+IFSul,Instituto Federal Sul-rio-grandense,Campus Sapucaia do Sul,1995,RS,Sapucaia do Sul
+IFSP,Instituto Federal de São Paulo,Campus Sertãozinho,1996,SP,Sertãozinho
+IF Goiano,Instituto Federal Goiano,Campus Morrinhos,1997,GO,Morrinhos
+CPII,Colégio Pedro II,Campus São Cristóvão III,1999,RJ,Rio de Janeiro
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Rio de Janeiro,1999,RJ,Rio de Janeiro
+IFES,Instituto Federal do Espírito Santo,Campus Serra,2000,ES,Serra
+IFES,Instituto Federal do Espírito Santo,Campus Cachoeiro de Itapemirim,2003,ES,Cachoeiro de Itapemirim
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Nova Iguaçu,2003,RJ,Nova Iguaçu
+IFTO,Instituto Federal do Tocantins,Campus Palmas - IFTO,2003,TO,Palmas
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Paracambi,2003,RJ,Paracambi
+IFSC,Instituto Federal de Santa Catarina,Campus São José,2003,SC,São José
+CPII,Colégio Pedro II,Campus Realengo II,2004,RJ,Rio de Janeiro
+IFSP,Instituto Federal de São Paulo,Campus Guarulhos,2005,SP,Guarulhos
+IFSP,Instituto Federal de São Paulo,Campus Bragança Paulista,2006,SP,Bragança Paulista
+IFMA,Instituto Federal do Maranhão,Campus Buriticupu,2006,MA,Buriticupu
+IFF,Instituto Federal Fluminense,Campus Campos Guarus,2006,RJ,Campos dos Goytacazes
+IFRR,Instituto Federal de Roraima,Campus Novo Paraíso,2006,RR,Caracaraí
+IFSP,Instituto Federal de São Paulo,Campus Caraguatatuba,2006,SP,Caraguatatuba
+IFES,Instituto Federal do Espírito Santo,Campus Cariacica,2006,ES,Cariacica
+IFSC,Instituto Federal de Santa Catarina,Campus Chapecó,2006,SC,Chapecó
+IFSul,Instituto Federal Sul-rio-grandense,Campus Charqueadas,2006,RS,Charqueadas
+IFAM,Instituto Federal do Amazonas,Campus Coari,2006,AM,Coari
+IFMG,Instituto Federal de Minas Gerais,Campus Congonhas,2006,MG,Congonhas
+IFMT,Instituto Federal de Mato Grosso,Campus Cuiabá Bela Vista,2006,MT,Cuiabá
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Currais Novos,2006,RN,Currais Novos
+IFSC,Instituto Federal de Santa Catarina,Campus Florianópolis Continente,2006,SC,Florianópolis
+IFG,Instituto Federal de Goiás,Campus Inhumas,2006,GO,Inhumas
+IFSC,Instituto Federal de Santa Catarina,Campus Joinville,2006,SC,Joinville
+IFCE,Instituto Federal do Ceará,Campus Maracanaú,2006,CE,Maracanaú
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Nepomuceno,2006,MG,Nepomuceno
+CPII,Colégio Pedro II,Campus Niterói - CPII,2006,RJ,Niterói
+IFTO,Instituto Federal do Tocantins,Campus Paraíso do Tocantins,2006,TO,Paraíso do Tocantins
+IFPI,Instituto Federal do Piauí,Campus Parnaíba,2006,PI,Parnaíba
+IFPI,Instituto Federal do Piauí,Campus Picos,2006,PI,Picos
+IFBA,Instituto Federal da Bahia,Campus Porto Seguro,2006,BA,Porto Seguro
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Maria da Graça,2006,RJ,Rio de Janeiro
+IFSP,Instituto Federal de São Paulo,Campus Salto,2006,SP,Salto
+IFBA,Instituto Federal da Bahia,Campus Santo Amaro,2006,BA,Santo Amaro
+IFSP,Instituto Federal de São Paulo,Campus São João da Boa Vista,2006,SP,São João da Boa Vista
+IFES,Instituto Federal do Espírito Santo,Campus São Mateus,2006,ES,São Mateus
+IFBA,Instituto Federal da Bahia,Campus Simões Filho,2006,BA,Simões Filho
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Timóteo,2006,MG,Timóteo
+IFMA,Instituto Federal do Maranhão,Campus Zé Doca,2006,MA,Zé Doca
+IFBA,Instituto Federal da Bahia,Campus Camaçari,2007,BA,Camaçari
+IFPB,Instituto Federal da Paraíba,Campus Campina Grande,2007,PB,Campina Grande
+IFPE,Instituto Federal de Pernambuco,Campus Ipojuca,2007,PE,Ipojuca
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Zona Norte,2007,RN,Natal
+IFSul,Instituto Federal Sul-rio-grandense,Campus Passo Fundo,2007,RS,Passo Fundo
+IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Augusto,2007,RS,Santo Augusto
+IFSP,Instituto Federal de São Paulo,Campus São Carlos - IFSP,2007,SP,São Carlos
+IFPA,Instituto Federal do Pará,Campus Abaetetuba,2008,PA,Abaetetuba
+IFES,Instituto Federal do Espírito Santo,Campus Aracruz,2008,ES,Aracruz
+IFSC,Instituto Federal de Santa Catarina,Campus Araranguá,2008,SC,Araranguá
+IFPE,Instituto Federal de Pernambuco,Campus Barreiros,2008,PE,Barreiros
+IFPE,Instituto Federal de Pernambuco,Campus Belo Jardim,2008,PE,Belo Jardim
+IFPA,Instituto Federal do Pará,Campus Bragança,2008,PA,Bragança
+IFB,Instituto Federal de Brasília,Campus Planaltina,2008,DF,Brasília
+IFF,Instituto Federal Fluminense,Campus Cabo Frio,2008,RJ,Cabo Frio
+IFMT,Instituto Federal de Mato Grosso,Campus Campo Novo do Parecis,2008,MT,Campo Novo do Parecis
+IFSP,Instituto Federal de São Paulo,Campus Campos do Jordão,2008,SP,Campos do Jordão
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Contagem,2008,MG,Contagem
+IFPR,Instituto Federal do Paraná,Campus Curitiba,2008,PR,Curitiba
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Duque de Caxias,2008,RJ,Duque de Caxias
+IFMG,Instituto Federal de Minas Gerais,Campus Formiga,2008,MG,Formiga
+IFS,Instituto Federal de Sergipe,Campus Itabaiana - IFS,2008,SE,Itabaiana
+IFG,Instituto Federal de Goiás,Campus Itumbiara,2008,GO,Itumbiara
+IFCE,Instituto Federal do Ceará,Campus Limoeiro do Norte,2008,CE,Limoeiro do Norte
+IFES,Instituto Federal do Espírito Santo,Campus Linhares,2008,ES,Linhares
+IFAL,Instituto Federal de Alagoas,Campus Maragogi,2008,AL,Maragogi
+IFS,Instituto Federal de Sergipe,Campus Nossa Senhora da Glória,2008,SE,Nossa Senhora da Glória
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Nova Friburgo,2008,RJ,Nova Friburgo
+IFES,Instituto Federal do Espírito Santo,Campus Nova Venécia,2008,ES,Nova Venécia
+IFPR,Instituto Federal do Paraná,Campus Paranaguá,2008,PR,Paranaguá
+IFPE,Instituto Federal de Pernambuco,Campus Pesqueira,2008,PE,Pesqueira
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Petrópolis,2008,RJ,Petrópolis
+IFMT,Instituto Federal de Mato Grosso,Campus Pontes e Lacerda,2008,MT,Pontes e Lacerda
+IFCE,Instituto Federal do Ceará,Campus Quixadá,2008,CE,Quixadá
+IFPE,Instituto Federal de Pernambuco,Campus Recife,2008,PE,Recife
+IFSP,Instituto Federal de São Paulo,Campus São Roque,2008,SP,São Roque
+IF Farroupilha,Instituto Federal Farroupilha,Campus São Vicente do Sul,2008,RS,São Vicente do Sul
+IFCE,Instituto Federal do Ceará,Campus Sobral,2008,CE,Sobral
+IFG,Instituto Federal de Goiás,Campus Uruaçu,2008,GO,Uruaçu
+IFPE,Instituto Federal de Pernambuco,Campus Vitória de Santo Antão,2008,PE,Vitória de Santo Antão
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Volta Redonda,2008,RJ,Volta Redonda
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Apodi,2009,RN,Apodi
+IFTO,Instituto Federal do Tocantins,Campus Araguaína,2009,TO,Araguaína
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Caicó,2009,RN,Caicó
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Ipanguaçu,2009,RN,Ipanguaçu
+IFF,Instituto Federal Fluminense,Campus Itaperuna,2009,RJ,Itaperuna
+IFRN,Instituto Federal do Rio Grande do Norte,Campus João Câmara,2009,RN,João Câmara
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Macau,2009,RN,Macau
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Pau dos Ferros,2009,RN,Pau dos Ferros
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Santa Cruz,2009,RN,Santa Cruz
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Valença,2009,RJ,Valença
+IFMA,Instituto Federal do Maranhão,Campus Açailândia,2010,MA,Açailândia
+IFCE,Instituto Federal do Ceará,Campus Acaraú,2010,CE,Acaraú
+IFPE,Instituto Federal de Pernambuco,Campus Afogados da Ingazeira,2010,PE,Afogados da Ingazeira
+IFMA,Instituto Federal do Maranhão,Campus Alcântara,2010,MA,Alcântara
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Almenara,2010,MG,Almenara
+IFRR,Instituto Federal de Roraima,Campus Amajari,2010,RR,Amajari
+IFG,Instituto Federal de Goiás,Campus Anápolis,2010,GO,Anápolis
+IFPI,Instituto Federal do Piauí,Campus Angical do Piauí,2010,PI,Angical do Piauí
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Angra dos Reis,2010,RJ,Angra dos Reis
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Araçuaí,2010,MG,Araçuaí
+IFAL,Instituto Federal de Alagoas,Campus Arapiraca,2010,AL,Arapiraca
+IFSP,Instituto Federal de São Paulo,Campus Araraquara,2010,SP,Araraquara
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Arinos,2010,MG,Arinos
+IFRO,Instituto Federal de Rondônia,Campus Ariquemes,2010,RO,Ariquemes
+IFSP,Instituto Federal de São Paulo,Campus Avaré,2010,SP,Avaré
+IFMA,Instituto Federal do Maranhão,Campus Bacabal,2010,MA,Bacabal
+IFSul,Instituto Federal Sul-rio-grandense,Campus Bagé,2010,RS,Bagé
+IFMA,Instituto Federal do Maranhão,Campus Barra do Corda,2010,MA,Barra do Corda
+IFMT,Instituto Federal de Mato Grosso,Campus Barra do Garças,2010,MT,Barra do Garças
+IFMA,Instituto Federal do Maranhão,Campus Barreirinhas,2010,MA,Barreirinhas
+IFSP,Instituto Federal de São Paulo,Campus Barretos,2010,SP,Barretos
+IFSP,Instituto Federal de São Paulo,Campus Birigui,2010,SP,Birigui
+IFRR,Instituto Federal de Roraima,Campus Boa Vista,2010,RR,Boa Vista
+IF Baiano,Instituto Federal Baiano,Campus Bom Jesus da Lapa,2010,BA,Bom Jesus da Lapa
+IFB,Instituto Federal de Brasília,Campus Brasília,2010,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus Gama,2010,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus Samambaia,2010,DF,Brasília
+IFB,Instituto Federal de Brasília,Campus Taguatinga,2010,DF,Brasília
+IFPB,Instituto Federal da Paraíba,Campus Cabedelo,2010,PB,Cabedelo
+IFSul,Instituto Federal Sul-rio-grandense,Campus Camaquã,2010,RS,Camaquã
+IFSP,Instituto Federal de São Paulo,Campus Campinas,2010,SP,Campinas
+IFCE,Instituto Federal do Ceará,Campus Canindé,2010,CE,Canindé
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Canoas,2010,RS,Canoas
+IFSC,Instituto Federal de Santa Catarina,Campus Canoinhas,2010,SC,Canoinhas
+IFPE,Instituto Federal de Pernambuco,Campus Caruaru,2010,PE,Caruaru
+IFSP,Instituto Federal de São Paulo,Campus Catanduva,2010,SP,Catanduva
+IFMA,Instituto Federal do Maranhão,Campus Caxias,2010,MA,Caxias
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Caxias do Sul,2010,RS,Caxias do Sul
+IFPA,Instituto Federal do Pará,Campus Conceição do Araguaia,2010,PA,Conceição do Araguaia
+IFMT,Instituto Federal de Mato Grosso,Campus Confresa,2010,MT,Confresa
+IFPI,Instituto Federal do Piauí,Campus Corrente,2010,PI,Corrente
+IFCE,Instituto Federal do Ceará,Campus Crateús,2010,CE,Crateús
+IFSC,Instituto Federal de Santa Catarina,Campus Criciúma,2010,SC,Criciúma
+IFAC,Instituto Federal do Acre,Campus Cruzeiro do Sul,2010,AC,Cruzeiro do Sul
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Curvelo,2010,MG,Curvelo
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Erechim,2010,RS,Erechim
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Floresta,2010,PE,Floresta
+IFG,Instituto Federal de Goiás,Campus Formosa,2010,GO,Formosa
+IFPR,Instituto Federal do Paraná,Campus Foz do Iguaçu,2010,PR,Foz do Iguaçu
+IFPE,Instituto Federal de Pernambuco,Campus Garanhuns,2010,PE,Garanhuns
+IFSC,Instituto Federal de Santa Catarina,Campus Gaspar,2010,SC,Gaspar
+IFMG,Instituto Federal de Minas Gerais,Campus Governador Valadares,2010,MG,Governador Valadares
+IFTO,Instituto Federal do Tocantins,Campus Gurupi,2010,TO,Gurupi
+IFSP,Instituto Federal de São Paulo,Campus Hortolândia,2010,SP,Hortolândia
+IFES,Instituto Federal do Espírito Santo,Campus Ibatiba,2010,ES,Ibatiba
+IF Goiano,Instituto Federal Goiano,Campus Iporá,2010,GO,Iporá
+IFBA,Instituto Federal da Bahia,Campus Irecê,2010,BA,Irecê
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Itaguaí,2010,RJ,Itaguaí
+IFPA,Instituto Federal do Pará,Campus Itaituba,2010,PA,Itaituba
+IFSC,Instituto Federal de Santa Catarina,Campus Itajaí,2010,SC,Itajaí
+IF Baiano,Instituto Federal Baiano,Campus Itapetinga,2010,BA,Itapetinga
+IFSP,Instituto Federal de São Paulo,Campus Itapetininga,2010,SP,Itapetininga
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Ituiutaba,2010,MG,Ituiutaba
+IFCE,Instituto Federal do Ceará,Campus Tauá,2013,CE,Tauá
+IFCE,Instituto Federal do Ceará,Campus Tianguá,2013,CE,Tianguá
+IFSC,Instituto Federal de Santa Catarina,Campus Tubarão,2013,SC,Tubarão
+IFCE,Instituto Federal do Ceará,Campus Ubajara,2013,CE,Ubajara
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Uberlândia Centro,2013,MG,Uberlândia
+IFCE,Instituto Federal do Ceará,Campus Umirim,2013,CE,Umirim
+IFSC,Instituto Federal de Santa Catarina,Campus Urupema,2013,SC,Urupema
+IFMT,Instituto Federal de Mato Grosso,Campus Várzea Grande,2013,MT,Várzea Grande
+IFES,Instituto Federal do Espírito Santo,Campus Venda Nova do Imigrante,2013,ES,Venda Nova do Imigrante
+IFSC,Instituto Federal de Santa Catarina,Campus Xanxerê,2013,SC,Xanxerê
+IFAC,Instituto Federal do Acre,Campus Xapuri,2013,AC,Xapuri
+IFG,Instituto Federal de Goiás,Campus Águas Lindas de Goiás,2014,GO,Águas Lindas de Goiás
+IFPR,Instituto Federal do Paraná,Campus Avançado Barracão,2014,PR,Barracão
+IFAL,Instituto Federal de Alagoas,Campus Batalha,2014,AL,Batalha
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Bom Sucesso,2014,MG,Bom Sucesso
+IFF,Instituto Federal Fluminense,Campus Avançado Cambuci,2014,RJ,Cambuci
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Avançado Campina Verde,2014,MG,Campina Verde
+IFPI,Instituto Federal do Piauí,Campus Campo Maior,2014,PI,Campo Maior
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Avançado Carmo de Minas,2014,MG,Carmo de Minas
+IFMA,Instituto Federal do Maranhão,Campus Avançado Carolina,2014,MA,Carolina
+IFPR,Instituto Federal do Paraná,Campus Cascavel,2014,PR,Cascavel
+IF Goiano,Instituto Federal Goiano,Campus Avançado Catalão,2014,GO,Catalão
+IFPI,Instituto Federal do Piauí,Campus Cocal,2014,PI,Cocal
+IFTO,Instituto Federal do Tocantins,Campus Colinas do Tocantins,2014,TO,Colinas do Tocantins
+IFAL,Instituto Federal de Alagoas,Campus Coruripe,2014,AL,Coruripe
+IF Goiano,Instituto Federal Goiano,Campus Cristalina,2014,GO,Cristalina
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Diamantino,2014,MT,Diamantino
+IFS,Instituto Federal de Sergipe,Campus Estância,2014,SE,Estância
+IFG,Instituto Federal de Goiás,Campus Goiânia Oeste,2014,GO,Goiânia
+IFCE,Instituto Federal do Ceará,Campus Avançado Guaramiranga,2014,CE,Guaramiranga
+IF Goiano,Instituto Federal Goiano,Campus Avançado Hidrolândia,2014,GO,Hidrolândia
+IF Goiano,Instituto Federal Goiano,Campus Avançado Ipameri,2014,GO,Ipameri
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Ipatinga,2014,MG,Ipatinga
+IFSul,Instituto Federal Sul-rio-grandense,Campus Avançado Jaguarão,2014,RS,Jaguarão
+IFCE,Instituto Federal do Ceará,Campus Avançado Jaguaruana,2014,CE,Jaguaruana
+IFTO,Instituto Federal do Tocantins,Campus Avançado Lagoa da Confusão,2014,TO,Lagoa da Confusão
+IFAM,Instituto Federal do Amazonas,Campus Avançado Manacapuru,2014,AM,Manacapuru
+IFES,Instituto Federal do Espírito Santo,Campus Montanha,2014,ES,Montanha
+IFPE,Instituto Federal de Pernambuco,Campus Palmares,2014,PE,Palmares
+IFPA,Instituto Federal do Pará,Campus Parauapebas,2014,PA,Parauapebas
+IFTO,Instituto Federal do Tocantins,Campus Avançado Pedro Afonso,2014,TO,Pedro Afonso
+IFPI,Instituto Federal do Piauí,Campus Avançado PIO IX,2014,PI,Pio IX
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Piumhi,2014,MG,Piumhi
+IFMA,Instituto Federal do Maranhão,Campus Avançado Porto Franco,2014,MA,Porto Franco
+IFS,Instituto Federal de Sergipe,Campus Propriá,2014,SE,Propriá
+IFAC,Instituto Federal do Acre,Campus Rio Branco Baixada do Sol,2014,AC,Rio Branco
+IFAL,Instituto Federal de Alagoas,Campus Rio Largo,2014,AL,Rio Largo
+IFMA,Instituto Federal do Maranhão,Campus Avançado Rosário,2014,MA,Rosário
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Santa Maria da Boa Vista,2014,PE,Santa Maria da Boa Vista
+IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Ângelo,2014,RS,Santo Ângelo
+IFF,Instituto Federal Fluminense,Campus Avançado São João da Barra,2014,RJ,São João da Barra
+IFMA,Instituto Federal do Maranhão,Campus São José de Ribamar,2014,MA,São José de Ribamar
+IFG,Instituto Federal de Goiás,Campus Senador Canedo,2014,GO,Senador Canedo
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Serra Talhada,2014,PE,Serra Talhada
+IFC,Instituto Federal Catarinense,Campus Avançado Sombrio,2014,SC,Sombrio
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Tangará da Serra,2014,MT,Tangará da Serra
+IFPI,Instituto Federal do Piauí,Campus Avançado Teresina Dirceu Arcoverde,2014,PI,Teresina
+IFS,Instituto Federal de Sergipe,Campus Tobias Barreto,2014,SE,Tobias Barreto
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Avançado Três Corações,2014,MG,Três Corações
+IF Farroupilha,Instituto Federal Farroupilha,Campus Avançado Uruguaiana,2014,RS,Uruguaiana
+IFPI,Instituto Federal do Piauí,Campus Valença do Piauí,2014,PI,Valença do Piauí
+IFES,Instituto Federal do Espírito Santo,Campus Avançado Viana,2014,ES,Viana
+IFMA,Instituto Federal do Maranhão,Campus Viana,2014,MA,Viana
+IFAL,Instituto Federal de Alagoas,Campus Viçosa,2014,AL,Viçosa
+IFPA,Instituto Federal do Pará,Campus Avançado Vigia,2014,PA,Vigia
+IFC,Instituto Federal Catarinense,Campus Avançado Abelardo Luz,2015,SC,Abelardo Luz
+IFMT,Instituto Federal de Mato Grosso,Campus Alta Floresta,2015,MT,Alta Floresta
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Alvorada,2015,RS,Alvorada
+IFPR,Instituto Federal do Paraná,Campus Avançado Astorga,2015,PR,Astorga
+IFRR,Instituto Federal de Roraima,Campus Avançado Bonfim,2015,RR,Bonfim
+IFPB,Instituto Federal da Paraíba,Campus Avançado Cabedelo Centro,2015,PB,Cabedelo
+IFF,Instituto Federal Fluminense,Polo de Inovação Campos dos Goytacazes,2015,RJ,Campos dos Goytacazes
+IFPR,Instituto Federal do Paraná,Campus Capanema,2015,PR,Capanema
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Cataguases,2015,MG,Cataguases
+IFPB,Instituto Federal da Paraíba,Campus Catolé do Rocha,2015,PB,Catolé do Rocha
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Conselheiro Lafaiete,2015,MG,Conselheiro Lafaiete
+IFPR,Instituto Federal do Paraná,Campus Avançado Coronel Vivida,2015,PR,Coronel Vivida
+IFBA,Instituto Federal da Bahia,Campus Euclides da Cunha,2015,BA,Euclides da Cunha
+IFMG,Instituto Federal de Minas Gerais,Polo de Inovação Formiga,2015,MG,Formiga
+IFTO,Instituto Federal do Tocantins,Campus Avançado Formoso do Araguaia,2015,TO,Formoso do Araguaia
+IFCE,Instituto Federal do Ceará,Polo de Inovação Fortaleza,2015,CE,Fortaleza
+IFPR,Instituto Federal do Paraná,Campus Avançado Goioerê,2015,PR,Goioerê
+IFSP,Instituto Federal de São Paulo,Campus Avançado Ilha Solteira,2015,SP,Ilha Solteira
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Itabirito,2015,MG,Itabirito
+IFSP,Instituto Federal de São Paulo,Campus Jacareí,2015,SP,Jacareí
+IFPR,Instituto Federal do Paraná,Campus Jaguariaíva,2015,PR,Jaguariaíva
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Avançado Janaúba,2015,MG,Janaúba
+IFBA,Instituto Federal da Bahia,Campus Juazeiro,2015,BA,Juazeiro
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Lajes,2015,RN,Lajes
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Manhuaçu,2015,MG,Manhuaçu
+IFF,Instituto Federal Fluminense,Campus Avançado Maricá,2015,RJ,Maricá
+IFAL,Instituto Federal de Alagoas,Campus Murici,2015,AL,Murici
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Parelhas,2015,RN,Parelhas
+IFPR,Instituto Federal do Paraná,Campus Pinhais,2015,PR,Pinhais
+IFPR,Instituto Federal do Paraná,Campus Pitanga,2015,PR,Pitanga
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Ponte Nova,2015,MG,Ponte Nova
+IF Goiano,Instituto Federal Goiano,Campus Posse,2015,GO,Posse
+IFPR,Instituto Federal do Paraná,Campus Avançado Quedas do Iguaçu,2015,PR,Quedas do Iguaçu
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Rolante,2015,RS,Rolante
+IFBA,Instituto Federal da Bahia,Polo de Inovação Salvador,2015,BA,Salvador
+IFAP,Instituto Federal do Amapá,Campus Santana,2015,AP,Santana
+IFF,Instituto Federal Fluminense,Campus Santo Antônio de Pádua,2015,RJ,Santo Antônio de Pádua
+IFSC,Instituto Federal de Santa Catarina,Campus Avançado São Lourenço do Oeste,2015,SC,São Lourenço do Oeste
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Ubá,2015,MG,Ubá
+IFBA,Instituto Federal da Bahia,Campus Avançado Ubaitaba,2015,BA,Ubaitaba
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Avançado Uberaba Parque Tecnológico,2015,MG,Uberaba
+IFPR,Instituto Federal do Paraná,Campus União da Vitória,2015,PR,União da Vitória
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Vacaria,2015,RS,Vacaria
+IFG,Instituto Federal de Goiás,Campus Valparaíso de Goiás,2015,GO,Valparaíso de Goiás
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Avançado Veranópolis,2015,RS,Veranópolis
+IFES,Instituto Federal do Espírito Santo,Polo de Inovação Vitória,2015,ES,Vitória
+IF Baiano,Instituto Federal Baiano,Campus Alagoinhas,2016,BA,Alagoinhas
+IFPA,Instituto Federal do Pará,Campus Ananindeua,2016,PA,Ananindeua
+IFMA,Instituto Federal do Maranhão,Campus Araioses,2016,MA,Araioses
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Arcos,2016,MG,Arcos
+IFES,Instituto Federal do Espírito Santo,Campus Barra de São Francisco,2016,ES,Barra de São Francisco
+IFCE,Instituto Federal do Ceará,Campus Boa Viagem,2016,CE,Boa Viagem
+IFPA,Instituto Federal do Pará,Campus Cametá,2016,PA,Cametá
+IF Goiano,Instituto Federal Goiano,Campus Campos Belos,2016,GO,Campos Belos
+IFCE,Instituto Federal do Ceará,Campus Pecém,2016,CE,Caucaia
+IFPR,Instituto Federal do Paraná,Campus Colombo,2016,PR,Colombo
+IFPB,Instituto Federal da Paraíba,Campus Avançado João Pessoa Mangabeira,2016,PB,Coronel João Pessoa
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Diamantina,2016,MG,Diamantina
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Dourados,2016,MS,Dourados
+IFAM,Instituto Federal do Amazonas,Campus Eirunepé,2016,AM,Eirunepé
+IFPB,Instituto Federal da Paraíba,Campus Esperança,2016,PB,Esperança
+IFRO,Instituto Federal de Rondônia,Campus Guajará-Mirim,2016,RO,Guajará-Mirim
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Guarantã do Norte,2016,MT,Guarantã do Norte
+IFCE,Instituto Federal do Ceará,Campus Horizonte,2016,CE,Horizonte
+IFPE,Instituto Federal de Pernambuco,Campus Igarassu,2016,PE,Igarassu
+IFPB,Instituto Federal da Paraíba,Campus Itabaiana - IFPB,2016,PB,Itabaiana
+IF Baiano,Instituto Federal Baiano,Campus Itaberaba,2016,BA,Itaberaba
+IFAM,Instituto Federal do Amazonas,Campus Itacoatiara,2016,AM,Itacoatiara
+IFMA,Instituto Federal do Maranhão,Campus Itapecuru Mirim,2016,MA,Itapecuru-Mirim
+IFCE,Instituto Federal do Ceará,Campus Itapipoca,2016,CE,Itapipoca
+IFPB,Instituto Federal da Paraíba,Campus Itaporanga,2016,PB,Itaporanga
+IFSP,Instituto Federal de São Paulo,Campus Itaquaquecetuba,2016,SP,Itaquaquecetuba
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Jardim,2016,MS,Jardim
+IFRO,Instituto Federal de Rondônia,Campus Jaru,2016,RO,Jaru
+IFPI,Instituto Federal do Piauí,Campus Avançado José de Freitas,2016,PI,José de Freitas
+IFSP,Instituto Federal de São Paulo,Campus Avançado Jundiaí,2016,SP,Jundiaí
+IFBA,Instituto Federal da Bahia,Campus Lauro de Freitas,2016,BA,Lauro de Freitas
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Lucas do Rio Verde,2016,MT,Lucas do Rio Verde
+IFAL,Instituto Federal de Alagoas,Campus Avançado Maceió Benedito Bentes,2016,AL,Maceió
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Avançado Mesquita,2016,RJ,Mesquita
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Naviraí,2016,MS,Naviraí
+IFS,Instituto Federal de Sergipe,Campus Nossa Senhora do Socorro,2016,SE,Nossa Senhora do Socorro
+IFSul,Instituto Federal Sul-rio-grandense,Campus Novo Hamburgo,2016,RS,Novo Hamburgo
+IFAP,Instituto Federal do Amapá,Campus Avançado Oiapoque,2016,AP,Oiapoque
+IFPE,Instituto Federal de Pernambuco,Campus Olinda,2016,PE,Olinda
+IFCE,Instituto Federal do Ceará,Campus Paracuru,2016,CE,Paracuru
+IFPA,Instituto Federal do Pará,Campus Paragominas,2016,PA,Paragominas
+IFPE,Instituto Federal de Pernambuco,Campus Paulista,2016,PE,Paulista
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Avançado Porteirinha,2016,MG,Porteirinha
+IFAP,Instituto Federal do Amapá,Campus Porto Grande,2016,AP,Porto Grande
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Avançado Resende,2016,RJ,Resende
+IFES,Instituto Federal do Espírito Santo,Campus Centro Serrano,2016,ES,Santa Maria de Jetibá
+IFPB,Instituto Federal da Paraíba,Campus Santa Rita,2016,PB,Santa Rita
+IFBA,Instituto Federal da Bahia,Campus Santo Antônio de Jesus,2016,BA,Santo Antônio de Jesus
+IFC,Instituto Federal Catarinense,Campus São Bento do Sul,2016,SC,São Bento do Sul
+IFSP,Instituto Federal de São Paulo,Campus São Paulo Pirituba,2016,SP,São Paulo
+IF Baiano,Instituto Federal Baiano,Campus Serrinha,2016,BA,Serrinha
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Sinop,2016,MT,Sinop
+IFPB,Instituto Federal da Paraíba,Campus Avançado Soledade,2016,PB,Soledade
+IFSP,Instituto Federal de São Paulo,Campus Sorocaba,2016,SP,Sorocaba
+IFAM,Instituto Federal do Amazonas,Campus Tefé,2016,AM,Tefé
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Teófilo Otoni,2016,MG,Teófilo Otoni
+IF Goiano,Instituto Federal Goiano,Campus Trindade,2016,GO,Trindade
+IFSP,Instituto Federal de São Paulo,Campus Avançado Tupã,2016,SP,Tupã
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Viamão,2016,RS,Viamão
+IF Baiano,Instituto Federal Baiano,Campus Xique-Xique,2016,BA,Xique-Xique
+IFPE,Instituto Federal de Pernambuco,Campus Abreu e Lima,2017,PE,Abreu e Lima
+IFCE,Instituto Federal do Ceará,Campus Acopiara,2017,CE,Acopiara
+IFCE,Instituto Federal do Ceará,Campus Maranguape,2017,CE,Maranguape
+IFPB,Instituto Federal da Paraíba,Campus Santa Luzia - IFPB,2017,PB,Santa Luzia
+IFSP,Instituto Federal de São Paulo,Campus São José do Rio Preto,2017,SP,São José do Rio Preto
+IFPR,Instituto Federal do Paraná,Campus Avançado Arapongas,2018,PR,Arapongas
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Belford Roxo,2018,RJ,Belford Roxo
+IFAM,Instituto Federal do Amazonas,Campus Avançado Boca do Acre,2018,AM,Boca do Acre
+IFPB,Instituto Federal da Paraíba,Polo de Inovação João Pessoa,2018,PB,Coronel João Pessoa
+IFSC,Instituto Federal de Santa Catarina,Polo de Inovação Florianópolis,2018,SC,Florianópolis
+IFMG,Instituto Federal de Minas Gerais,Campus Ibirité,2018,MG,Ibirité
+IFAM,Instituto Federal do Amazonas,Campus Avançado Iranduba,2018,AM,Iranduba
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Jucurutu,2018,RN,Jucurutu
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Polo de Inovação Machado,2018,MG,Machado
+IFCE,Instituto Federal do Ceará,Campus Avançado Mombaça,2018,CE,Mombaça
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Natal Zona Leste,2018,RN,Natal
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Niterói - IFRJ,2018,RJ,Niterói
+IF Goiano,Instituto Federal Goiano,Polo de Inovação Rio Verde,2018,GO,Rio Verde
+IFRJ,Instituto Federal do Rio de Janeiro,Campus São João de Meriti,2018,RJ,São João de Meriti
+IFRO,Instituto Federal de Rondônia,Campus Avançado São Miguel do Guaporé,2018,RO,São Miguel do Guaporé
+IFSP,Instituto Federal de São Paulo,Campus Avançado São Paulo - São Miguel,2018,SP,São Paulo
+IFPB,Instituto Federal da Paraíba,Campus Avançado Areia,2020,PB,Areia
+IFPB,Instituto Federal da Paraíba,Campus Avançado Pedras de Fogo,2020,PB,Pedras de Fogo
+IFS,Instituto Federal de Sergipe,Campus Poço Redondo,2020,SE,Poço Redondo
+IFMA,Instituto Federal do Maranhão,Campus Presidente Dutra,2020,MA,Presidente Dutra
+IFG,Instituto Federal de Goiás,Polo de Inovação Goiânia,2021,GO,Goiânia
+IFF,Instituto Federal Fluminense,Campus Itaboraí,2021,RJ,Itaboraí
+IFAM,Instituto Federal do Amazonas,Polo de Inovação Manaus,2021,AM,Manaus
+IFSP,Instituto Federal de São Paulo,Polo de Inovação Matão,2021,SP,Matão
+IFTM,Instituto Federal do Triângulo Mineiro,Polo de Inovação Uberaba,2021,MG,Uberaba
+IFSP,Instituto Federal de São Paulo,Campus Bauru,2022,SP,Bauru
+IFES,Instituto Federal do Espírito Santo,Campus Laranja da Terra,2022,ES,Laranja da Terra
+IFSP,Instituto Federal de São Paulo,Campus Miracatu,2022,SP,Miracatu
+IFES,Instituto Federal do Espírito Santo,Campus Pedro Canário,2022,ES,Pedro Canário
+IFES,Instituto Federal do Espírito Santo,Campus Presidente Kennedy,2022,ES,Presidente Kennedy
+IFSP,Instituto Federal de São Paulo,Campus Presidente Prudente,2022,SP,Presidente Prudente
+IFSP,Instituto Federal de São Paulo,Campus Rio Claro,2022,SP,Rio Claro
