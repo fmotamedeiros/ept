@@ -1,0 +1,717 @@
+SIGLA_INSTITUICAO,NOME_INSTITUICAO,NOME_UNIDADE_ENSINO,ANO,SIGLA_UF_UNIDADE_ENSINO,NOME_MUNICIPIO_UNIDADE_ENSINO,LATITUDE,LONGITUDE
+IFPR,Instituto Federal do Paraná,Campus Jacarezinho,2010,PR,Jacarezinho,-23.1591,-49.9739
+IFBA,Instituto Federal da Bahia,Campus Jequié,2010,BA,Jequié,-13.8509,-40.0877
+IFRO,Instituto Federal de Rondônia,Campus Ji-Paraná,2010,RO,Ji-Paraná,-10.8777,-61.9322
+IFMT,Instituto Federal de Mato Grosso,Campus Juína,2010,MT,Juína,-11.3728,-58.7483
+IF Farroupilha,Instituto Federal Farroupilha,Campus Júlio de Castilhos,2010,RS,Júlio de Castilhos,-29.2299,-53.6772
+IFAM,Instituto Federal do Amazonas,Campus Lábrea,2010,AM,Lábrea,-7.26413,-64.7948
+IFSC,Instituto Federal de Santa Catarina,Campus Lages,2010,SC,Lages,-27.815,-50.3259
+IFAP,Instituto Federal do Amapá,Campus Laranjal do Jari,2010,AP,Laranjal do Jari,-0.804911,-52.453
+IFG,Instituto Federal de Goiás,Campus Luziânia,2010,GO,Luziânia,-16.253,-47.95
+IFAP,Instituto Federal do Amapá,Campus Macapá,2010,AP,Macapá,0.034934,-51.0694
+IFPA,Instituto Federal do Pará,Campus Marabá Rural,2010,PA,Marabá,-5.38075,-49.1327
+IFAM,Instituto Federal do Amazonas,Campus Maués,2010,AM,Maués,-3.39289,-57.7067
+IFPB,Instituto Federal da Paraíba,Campus Monteiro,2010,PB,Monteiro,-7.88363,-37.1184
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Montes Claros,2010,MG,Montes Claros,-16.7282,-43.8578
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Muriaé,2010,MG,Muriaé,-21.13,-42.3693
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Nova Andradina,2010,MS,Nova Andradina,-22.238,-53.3437
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Osório,2010,RS,Osório,-29.8881,-50.2667
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Ouricuri,2010,PE,Ouricuri,-7.87918,-40.08
+IF Farroupilha,Instituto Federal Farroupilha,Campus Panambi,2010,RS,Panambi,-28.2833,-53.5023
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Paracatu,2010,MG,Paracatu,-17.2252,-46.8711
+IFPR,Instituto Federal do Paraná,Campus Paranavaí,2010,PR,Paranavaí,-23.0816,-52.4617
+IFAM,Instituto Federal do Amazonas,Campus Parintins,2010,AM,Parintins,-2.63741,-56.729
+IFPB,Instituto Federal da Paraíba,Campus Patos,2010,PB,Patos,-7.01743,-37.2747
+IFPI,Instituto Federal do Piauí,Campus Paulistana,2010,PI,Paulistana,-8.13436,-41.1431
+IFBA,Instituto Federal da Bahia,Campus Paulo Afonso,2010,BA,Paulo Afonso,-9.3983,-38.2216
+IFAL,Instituto Federal de Alagoas,Campus Penedo,2010,AL,Penedo,-10.2874,-36.5819
+IFPB,Instituto Federal da Paraíba,Campus Picuí,2010,PB,Picuí,-6.50845,-36.3497
+IFMA,Instituto Federal do Maranhão,Campus Pinheiro,2010,MA,Pinheiro,-2.52224,-45.0788
+IFSP,Instituto Federal de São Paulo,Campus Piracicaba,2010,SP,Piracicaba,-22.7338,-47.6476
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Pirapora,2010,MG,Pirapora,-17.3392,-44.934
+IFPI,Instituto Federal do Piauí,Campus Piripiri,2010,PI,Piripiri,-4.27157,-41.7716
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Porto Alegre Restinga,2010,RS,Porto Alegre,-30.0318,-51.2065
+IFTO,Instituto Federal do Tocantins,Campus Porto Nacional,2010,TO,Porto Nacional,-10.7027,-48.408
+IFRO,Instituto Federal de Rondônia,Campus Porto Velho Zona Norte,2010,RO,Porto Velho,-8.76077,-63.8999
+IFSP,Instituto Federal de São Paulo,Campus Presidente Epitácio,2010,SP,Presidente Epitácio,-21.7651,-52.1111
+IFAM,Instituto Federal do Amazonas,Campus Presidente Figueiredo,2010,AM,Presidente Figueiredo,-2.02981,-60.0234
+IFPB,Instituto Federal da Paraíba,Campus Princesa Isabel,2010,PB,Princesa Isabel,-7.73175,-37.9886
+IFSP,Instituto Federal de São Paulo,Campus Registro,2010,SP,Registro,-24.4979,-47.8449
+IFAC,Instituto Federal do Acre,Campus Rio Branco,2010,AC,Rio Branco,-15.2483,-58.1259
+IFAC,Instituto Federal do Acre,Campus Rio Branco,2010,AC,Rio Branco,-9.97499,-67.8243
+CPII,Colégio Pedro II,Campus Realengo I,2010,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Realengo,2010,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFMT,Instituto Federal de Mato Grosso,Campus Rondonópolis,2010,MT,Rondonópolis,-16.4673,-54.6372
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Salgueiro,2010,PE,Salgueiro,-8.07373,-39.1247
+IFMA,Instituto Federal do Maranhão,Campus Santa Inês - IFMA,2010,MA,Santa Inês,-13.2793,-39.814
+IFMA,Instituto Federal do Maranhão,Campus Santa Inês - IFMA,2010,MA,Santa Inês,-22.6376,-51.9024
+IFMA,Instituto Federal do Maranhão,Campus Santa Inês - IFMA,2010,MA,Santa Inês,-7.621,-38.554
+IFMA,Instituto Federal do Maranhão,Campus Santa Inês - IFMA,2010,MA,Santa Inês,-3.65112,-45.3774
+IF Farroupilha,Instituto Federal Farroupilha,Campus Santa Rosa,2010,RS,Santa Rosa,-27.8702,-54.4796
+IFPA,Instituto Federal do Pará,Campus Santarém,2010,PA,Santarém,-2.43849,-54.6996
+IF Farroupilha,Instituto Federal Farroupilha,Campus São Borja,2010,RS,São Borja,-28.6578,-56.0036
+IFRJ,Instituto Federal do Rio de Janeiro,Campus São Gonçalo,2010,RJ,São Gonçalo,-22.8268,-43.0634
+IFMA,Instituto Federal do Maranhão,Campus São João dos Patos,2010,MA,São João dos Patos,-6.4934,-43.7036
+IFMA,Instituto Federal do Maranhão,Campus São Luís Centro Histórico,2010,MA,São Luís,-2.53874,-44.2825
+IFSC,Instituto Federal de Santa Catarina,Campus São Miguel do Oeste,2010,SC,São Miguel do Oeste,-26.7242,-53.5163
+IFMA,Instituto Federal do Maranhão,Campus São Raimundo das Mangabeiras,2010,MA,São Raimundo das Mangabeiras,-7.02183,-45.4809
+IFPI,Instituto Federal do Piauí,Campus São Raimundo Nonato,2010,PI,São Raimundo Nonato,-9.01241,-42.6987
+IFBA,Instituto Federal da Bahia,Campus Seabra,2010,BA,Seabra,-12.4169,-41.7722
+IFAC,Instituto Federal do Acre,Campus Sena Madureira,2010,AC,Sena Madureira,-9.06596,-68.6571
+IFSP,Instituto Federal de São Paulo,Campus Suzano,2010,SP,Suzano,-23.5448,-46.3112
+IFAM,Instituto Federal do Amazonas,Campus Tabatinga,2010,AM,Tabatinga,-21.7239,-48.6896
+IFAM,Instituto Federal do Amazonas,Campus Tabatinga,2010,AM,Tabatinga,-4.2416,-69.9383
+IF Baiano,Instituto Federal Baiano,Campus Teixeira de Freitas,2010,BA,Teixeira de Freitas,-17.5399,-39.74
+IFPR,Instituto Federal do Paraná,Campus Telêmaco Borba,2010,PR,Telêmaco Borba,-24.3245,-50.6176
+IFPI,Instituto Federal do Piauí,Campus Teresina Zona Sul,2010,PI,Teresina,-5.09194,-42.8034
+IFMA,Instituto Federal do Maranhão,Campus Timon,2010,MA,Timon,-5.09769,-42.8329
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Uberlândia,2010,MG,Uberlândia,-18.9141,-48.2749
+IFPR,Instituto Federal do Paraná,Campus Umuarama,2010,PR,Umuarama,-23.7656,-53.3201
+IFPI,Instituto Federal do Piauí,Campus Uruçuí,2010,PI,Uruçuí,-7.23944,-44.5577
+IF Baiano,Instituto Federal Baiano,Campus Valença,2010,BA,Valença,-13.3669,-39.073
+IF Baiano,Instituto Federal Baiano,Campus Valença,2010,BA,Valença,-22.2445,-43.7129
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Varginha,2010,MG,Varginha,-21.5556,-45.4364
+IFC,Instituto Federal Catarinense,Campus Videira,2010,SC,Videira,-27.0086,-51.1543
+IFES,Instituto Federal do Espírito Santo,Campus Vila Velha,2010,ES,Vila Velha,-20.3417,-40.2875
+IFRO,Instituto Federal de Rondônia,Campus Vilhena,2010,RO,Vilhena,-12.7502,-60.1488
+IFSP,Instituto Federal de São Paulo,Campus Votuporanga,2010,SP,Votuporanga,-20.4237,-49.9781
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Aquidauana,2011,MS,Aquidauana,-20.4666,-55.7868
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Campo Grande,2011,MS,Campo Grande,-9.95542,-36.7926
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Campo Grande,2011,MS,Campo Grande,-20.4486,-54.6295
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Corumbá,2011,MS,Corumbá,-19.0077,-57.651
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Coxim,2011,MS,Coxim,-18.5013,-54.751
+IFBA,Instituto Federal da Bahia,Campus Feira de Santana,2011,BA,Feira de Santana,-12.2664,-38.9663
+IFBA,Instituto Federal da Bahia,Campus Ilhéus,2011,BA,Ilhéus,-14.793,-39.046
+IFBA,Instituto Federal da Bahia,Campus Jacobina,2011,BA,Jacobina,-11.1812,-40.5117
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Ponta Porã,2011,MS,Ponta Porã,-22.5296,-55.7203
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Três Lagoas,2011,MS,Três Lagoas,-20.7849,-51.7007
+IF Baiano,Instituto Federal Baiano,Campus Uruçuca,2011,BA,Uruçuca,-14.5963,-39.2851
+IFSul,Instituto Federal Sul-rio-grandense,Campus Venâncio Aires,2011,RS,Venâncio Aires,-29.6143,-52.1932
+IFG,Instituto Federal de Goiás,Campus Aparecida de Goiânia,2012,GO,Aparecida de Goiânia,-16.8198,-49.2469
+CPII,Colégio Pedro II,Campus Duque de Caxias CP,2012,RJ,Duque de Caxias,-22.7858,-43.3049
+IFG,Instituto Federal de Goiás,Campus Cidade de Goiás,2012,GO,Goiás,-15.9333,-50.14
+IFAL,Instituto Federal de Alagoas,Campus Piranhas,2012,AL,Piranhas,-9.624,-37.757
+IFAL,Instituto Federal de Alagoas,Campus Piranhas,2012,AL,Piranhas,-16.4258,-51.8235
+IFCE,Instituto Federal do Ceará,Campus Aracati,2013,CE,Aracati,-4.55826,-37.7679
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Arraial do Cabo,2013,RJ,Arraial do Cabo,-22.9774,-42.0267
+IFPR,Instituto Federal do Paraná,Campus Assis Chateaubriand,2013,PR,Assis Chateaubriand,-24.4168,-53.5213
+IFCE,Instituto Federal do Ceará,Campus Baturité,2013,CE,Baturité,-4.32598,-38.8812
+IFMG,Instituto Federal de Minas Gerais,Campus Betim,2013,MG,Betim,-19.9668,-44.2008
+IFC,Instituto Federal Catarinense,Campus Blumenau,2013,SC,Blumenau,-26.9155,-49.0709
+IFRR,Instituto Federal de Roraima,Campus Boa Vista Zona Oeste,2013,RR,Boa Vista,2.82384,-60.6753
+IFRR,Instituto Federal de Roraima,Campus Boa Vista Zona Oeste,2013,RR,Boa Vista,-7.26365,-36.2357
+IFSP,Instituto Federal de São Paulo,Campus Boituva,2013,SP,Boituva,-23.2855,-47.6786
+IFB,Instituto Federal de Brasília,Campus Ceilândia,2013,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus Estrutural,2013,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus Recanto das Emas,2013,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus Riacho Fundo,2013,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus São Sebastião,2013,DF,Brasília,-15.7795,-47.9297
+IFPA,Instituto Federal do Pará,Campus Breves,2013,PA,Breves,-1.68036,-50.4791
+IFBA,Instituto Federal da Bahia,Campus Brumado,2013,BA,Brumado,-14.2021,-41.6696
+IFC,Instituto Federal Catarinense,Campus Brusque,2013,SC,Brusque,-27.0977,-48.9107
+IFPE,Instituto Federal de Pernambuco,Campus Cabo de Santo Agostinho,2013,PE,Cabo de Santo Agostinho,-8.28218,-35.0253
+IFSC,Instituto Federal de Santa Catarina,Campus Caçador,2013,SC,Caçador,-26.7757,-51.012
+IFRO,Instituto Federal de Rondônia,Campus Cacoal,2013,RO,Cacoal,-11.4343,-61.4562
+IFCE,Instituto Federal do Ceará,Campus Camocim,2013,CE,Camocim,-2.9005,-40.8544
+IFPR,Instituto Federal do Paraná,Campus Campo Largo,2013,PR,Campo Largo,-25.4525,-49.529
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Canguaretama,2013,RN,Canguaretama,-6.37193,-35.1281
+IFSP,Instituto Federal de São Paulo,Campus Capivari,2013,SP,Capivari,-22.9951,-47.5071
+IFCE,Instituto Federal do Ceará,Campus Caucaia,2013,CE,Caucaia,-3.72797,-38.6619
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Ceará-Mirim,2013,RN,Ceará-Mirim,-5.64323,-35.4247
+IFMA,Instituto Federal do Maranhão,Campus Coelho Neto,2013,MA,Coelho Neto,-4.25245,-43.0108
+IFTO,Instituto Federal do Tocantins,Campus Dianópolis,2013,TO,Dianópolis,-11.624,-46.8198
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Engenheiro Paulo de Frontin,2013,RJ,Engenheiro Paulo de Frontin,-22.5498,-43.6827
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Farroupilha,2013,RS,Farroupilha,-29.2227,-51.3419
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Feliz,2013,RS,Feliz,-29.4527,-51.3032
+IFC,Instituto Federal Catarinense,Campus Fraiburgo,2013,SC,Fraiburgo,-27.0233,-50.92
+IFSC,Instituto Federal de Santa Catarina,Campus Garopaba,2013,SC,Garopaba,-28.0275,-48.6192
+IF Baiano,Instituto Federal Baiano,Campus Governador Mangabeira,2013,BA,Governador Mangabeira,-12.5994,-39.0412
+IFMA,Instituto Federal do Maranhão,Campus Grajaú,2013,MA,Grajaú,-5.81367,-46.1462
+IFSul,Instituto Federal Sul-rio-grandense,Campus Gravataí,2013,RS,Gravataí,-29.9413,-50.9869
+IFPB,Instituto Federal da Paraíba,Campus Guarabira,2013,PB,Guarabira,-6.85064,-35.485
+IFES,Instituto Federal do Espírito Santo,Campus Guarapari,2013,ES,Guarapari,-20.6772,-40.5093
+IFAM,Instituto Federal do Amazonas,Campus Humaitá,2013,AM,Humaitá,-27.5691,-53.9695
+IFAM,Instituto Federal do Amazonas,Campus Humaitá,2013,AM,Humaitá,-7.51171,-63.0327
+IFC,Instituto Federal Catarinense,Campus Ibirama,2013,SC,Ibirama,-27.0547,-49.5193
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Ibirubá,2013,RS,Ibirubá,-28.6302,-53.0961
+IFPR,Instituto Federal do Paraná,Campus Irati,2013,PR,Irati,-25.4697,-50.6493
+IFPR,Instituto Federal do Paraná,Campus Irati,2013,PR,Irati,-26.6539,-52.8955
+IFPR,Instituto Federal do Paraná,Campus Ivaiporã,2013,PR,Ivaiporã,-24.2485,-51.6754
+IFPE,Instituto Federal de Pernambuco,Campus Jaboatão dos Guararapes,2013,PE,Jaboatão dos Guararapes,-8.11298,-35.015
+IF Farroupilha,Instituto Federal Farroupilha,Campus Jaguari,2013,RS,Jaguari,-29.4936,-54.703
+IFCE,Instituto Federal do Ceará,Campus Jaguaribe,2013,CE,Jaguaribe,-5.90213,-38.6227
+IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul Rau,2013,SC,Jaraguá do Sul,-26.4851,-49.0713
+IFSul,Instituto Federal Sul-rio-grandense,Campus Lajeado,2013,RS,Lajeado,-9.74996,-48.3565
+IFSul,Instituto Federal Sul-rio-grandense,Campus Lajeado,2013,RS,Lajeado,-29.4591,-51.9644
+IFPR,Instituto Federal do Paraná,Campus Londrina,2013,PR,Londrina,-23.304,-51.1691
+IFC,Instituto Federal Catarinense,Campus Luzerna,2013,SC,Luzerna,-27.1304,-51.4682
+IFSP,Instituto Federal de São Paulo,Campus Matão,2013,SP,Matão,-21.6025,-48.364
+IFCE,Instituto Federal do Ceará,Campus Morada Nova,2013,CE,Morada Nova,-5.09736,-38.3702
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Cidade Alta,2013,RN,Natal,-5.79357,-35.1986
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Nova Cruz,2013,RN,Nova Cruz,-6.47511,-35.4286
+IFPA,Instituto Federal do Pará,Campus Óbidos,2013,PA,Óbidos,-1.90107,-55.5208
+IFPI,Instituto Federal do Piauí,Campus Oeiras,2013,PI,Oeiras,-7.01915,-42.1283
+IFMG,Instituto Federal de Minas Gerais,Campus Ouro Branco,2013,MG,Ouro Branco,-20.5263,-43.6962
+IFMG,Instituto Federal de Minas Gerais,Campus Ouro Branco,2013,MG,Ouro Branco,-6.6958,-36.9428
+IFMG,Instituto Federal de Minas Gerais,Campus Ouro Branco,2013,MG,Ouro Branco,-9.15884,-37.3556
+IFSC,Instituto Federal de Santa Catarina,Campus Palhoça,2013,SC,Palhoça,-27.6455,-48.6697
+IFPR,Instituto Federal do Paraná,Campus Palmas - IFPR,2013,PR,Palmas,-26.4839,-51.9888
+IFPR,Instituto Federal do Paraná,Campus Palmas - IFPR,2013,PR,Palmas,-10.24,-48.3558
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Parnamirim,2013,RN,Parnamirim,-5.91116,-35.271
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Parnamirim,2013,RN,Parnamirim,-8.08729,-39.5795
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Passos,2013,MG,Passos,-20.7193,-46.609
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Patos de Minas,2013,MG,Patos de Minas,-18.5699,-46.5013
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Patrocínio,2013,MG,Patrocínio,-18.9379,-46.9934
+IFMA,Instituto Federal do Maranhão,Campus Pedreiras,2013,MA,Pedreiras,-4.56482,-44.6006
+IFPI,Instituto Federal do Piauí,Campus Pedro II,2013,PI,Pedro II,-4.42585,-41.4482
+IFSul,Instituto Federal Sul-rio-grandense,Campus Pelotas Visconde da Graça,2013,RS,Pelotas,-31.7649,-52.3371
+IFES,Instituto Federal do Espírito Santo,Campus Piúma,2013,ES,Piúma,-20.8334,-40.7268
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Poços de Caldas,2013,MG,Poços de Caldas,-21.78,-46.5692
+IFRO,Instituto Federal de Rondônia,Campus Porto Velho Calama,2013,RO,Porto Velho,-8.76077,-63.8999
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Pouso Alegre,2013,MG,Pouso Alegre,-22.2266,-45.9389
+IFMT,Instituto Federal de Mato Grosso,Campus Primavera do Leste,2013,MT,Primavera do Leste,-15.544,-54.2811
+IFF,Instituto Federal Fluminense,Campus Quissamã,2013,RJ,Quissamã,-22.1031,-41.4693
+IFMG,Instituto Federal de Minas Gerais,Campus Ribeirão das Neves,2013,MG,Ribeirão das Neves,-19.7621,-44.0844
+IFMG,Instituto Federal de Minas Gerais,Campus Sabará,2013,MG,Sabará,-19.884,-43.8263
+IFMG,Instituto Federal de Minas Gerais,Campus Santa Luzia - IFMG,2013,MG,Santa Luzia,-4.06873,-45.69
+IFMG,Instituto Federal de Minas Gerais,Campus Santa Luzia - IFMG,2013,MG,Santa Luzia,-15.4342,-39.3287
+IFMG,Instituto Federal de Minas Gerais,Campus Santa Luzia - IFMG,2013,MG,Santa Luzia,-19.7548,-43.8497
+IFMG,Instituto Federal de Minas Gerais,Campus Santa Luzia - IFMG,2013,MG,Santa Luzia,-6.86092,-36.9178
+IFAL,Instituto Federal de Alagoas,Campus Santana do Ipanema,2013,AL,Santana do Ipanema,-9.36999,-37.248
+IFSul,Instituto Federal Sul-rio-grandense,Campus Santana do Livramento,2013,RS,Sant'Ana do Livramento,-30.8773,-55.5392
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Santos Dumont,2013,MG,Santos Dumont,-21.4634,-43.5499
+IFSC,Instituto Federal de Santa Catarina,Campus São Carlos - IFSC,2013,SC,São Carlos,-22.0174,-47.886
+IFSC,Instituto Federal de Santa Catarina,Campus São Carlos - IFSC,2013,SC,São Carlos,-27.0798,-53.0037
+IFC,Instituto Federal Catarinense,Campus São Francisco do Sul,2013,SC,São Francisco do Sul,-26.2579,-48.6344
+IFRN,Instituto Federal do Rio Grande do Norte,Campus São Gonçalo do Amarante,2013,RN,São Gonçalo do Amarante,-5.79068,-35.3257
+IFRN,Instituto Federal do Rio Grande do Norte,Campus São Gonçalo do Amarante,2013,RN,São Gonçalo do Amarante,-3.60515,-38.9726
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus São João del Rei,2013,MG,São João del-Rei,,
+IFPI,Instituto Federal do Piauí,Campus São João do Piauí,2013,PI,São João do Piauí,-8.35466,-42.2559
+IFSP,Instituto Federal de São Paulo,Campus São José dos Campos,2013,SP,São José dos Campos,-23.1896,-45.8841
+IFAL,Instituto Federal de Alagoas,Campus São Miguel dos Campos,2013,AL,São Miguel dos Campos,-9.78301,-36.0971
+IFRN,Instituto Federal do Rio Grande do Norte,Campus São Paulo do Potengi,2013,RN,São Paulo do Potengi,-5.8994,-35.7642
+IFSul,Instituto Federal Sul-rio-grandense,Campus Sapiranga,2013,RS,Sapiranga,-29.6349,-51.0064
+IFMT,Instituto Federal de Mato Grosso,Campus Sorriso,2013,MT,Sorriso,-12.5425,-55.7211
+IFCE,Instituto Federal do Ceará,Campus Tabuleiro do Norte,2013,CE,Tabuleiro do Norte,-5.24353,-38.1282
+IFAC,Instituto Federal do Acre,Campus Tarauacá,2013,AC,Tarauacá,-8.15697,-70.7722
+CPII,Colégio Pedro II,Campus São Cristóvão II,1888,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFS,Instituto Federal de Sergipe,Campus Aracaju,1909,SE,Aracaju,-10.9091,-37.0677
+IFPA,Instituto Federal do Pará,Campus Belém,1909,PA,Belém,-1.4554,-48.4898
+IFPA,Instituto Federal do Pará,Campus Belém,1909,PA,Belém,-6.74261,-35.5166
+IFPA,Instituto Federal do Pará,Campus Belém,1909,PA,Belém,-9.57047,-36.4904
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Unidade Belo Horizonte,1909,MG,Belo Horizonte,-19.9102,-43.9266
+IFF,Instituto Federal Fluminense,Campus Campos Centro,1909,RJ,Campos dos Goytacazes,-21.7622,-41.3181
+IFPB,Instituto Federal da Paraíba,Campus João Pessoa,1909,PB,Coronel João Pessoa,-6.24974,-38.4441
+IFMT,Instituto Federal de Mato Grosso,Campus Cuiabá,1909,MT,Cuiabá,-15.601,-56.0974
+IFSC,Instituto Federal de Santa Catarina,Campus Florianópolis,1909,SC,Florianópolis,-27.5945,-48.5477
+IFCE,Instituto Federal do Ceará,Campus Fortaleza,1909,CE,Fortaleza,-3.71664,-38.5423
+IFAL,Instituto Federal de Alagoas,Campus Maceió,1909,AL,Maceió,-9.66599,-35.735
+IFAM,Instituto Federal do Amazonas,Campus Manaus Centro,1909,AM,Manaus,-3.11866,-60.0212
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Central,1909,RN,Natal,-5.79357,-35.1986
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Porto Alegre,1909,RS,Porto Alegre,-30.0318,-51.2065
+IFBA,Instituto Federal da Bahia,Campus Salvador,1909,BA,Salvador,-12.9718,-38.5011
+IFMA,Instituto Federal do Maranhão,Campus São Luís Monte Castelo,1909,MA,São Luís,-2.53874,-44.2825
+IFSP,Instituto Federal de São Paulo,Campus São Paulo,1909,SP,São Paulo,-23.5329,-46.6395
+IFPI,Instituto Federal do Piauí,Campus Teresina Central,1909,PI,Teresina,-5.09194,-42.8034
+IFES,Instituto Federal do Espírito Santo,Campus Vitória,1909,ES,Vitória,-20.3155,-40.3128
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Barbacena,1910,MG,Barbacena,-21.2214,-43.7703
+IFAL,Instituto Federal de Alagoas,Campus Satuba,1911,AL,Satuba,-9.56911,-35.8227
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Unidade Maracanã,1917,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Inconfidentes,1918,MG,Inconfidentes,-22.3136,-46.3264
+IFPA,Instituto Federal do Pará,Campus Castanhal,1921,PA,Castanhal,-1.29797,-47.9167
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Pinheiral,1934,RJ,Pinheiral,-22.5172,-44.0022
+CPII,Colégio Pedro II,Campus Centro,1938,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFAM,Instituto Federal do Amazonas,Campus Manaus Zona Leste,1940,AM,Manaus,-3.11866,-60.0212
+IFES,Instituto Federal do Espírito Santo,Campus Santa Teresa,1940,ES,Santa Teresa,-19.9363,-40.5979
+IFG,Instituto Federal de Goiás,Campus Goiânia,1942,GO,Goiânia,-16.6864,-49.2643
+IFMG,Instituto Federal de Minas Gerais,Campus Ouro Preto,1942,MG,Ouro Preto,-20.3796,-43.512
+IFSul,Instituto Federal Sul-rio-grandense,Campus Pelotas,1942,RS,Pelotas,-31.7649,-52.3371
+IFMT,Instituto Federal de Mato Grosso,Campus São Vicente,1943,MT,Santo Antônio de Leverger,,
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Juiz de Fora,1946,MG,Juiz de Fora,-21.7595,-43.3398
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Machado,1946,MG,Machado,-21.6778,-45.9219
+IFS,Instituto Federal de Sergipe,Campus São Cristóvão,1946,SE,São Cristóvão,-11.0084,-37.2044
+IFPB,Instituto Federal da Paraíba,Campus Sousa,1946,PB,Sousa,-6.75148,-38.2311
+IFES,Instituto Federal do Espírito Santo,Campus Alegre,1947,ES,Alegre,-20.758,-41.5382
+IFES,Instituto Federal do Espírito Santo,Campus Itapina,1947,ES,Colatina,-19.5493,-40.6269
+IFCE,Instituto Federal do Ceará,Campus Crato,1947,CE,Crato,-7.2153,-39.4103
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Salinas,1947,MG,Salinas,-16.1753,-42.2964
+IFMA,Instituto Federal do Maranhão,Campus São Luís Maracanã,1947,MA,São Luís,-2.53874,-44.2825
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Muzambinho,1948,MG,Muzambinho,-21.3692,-46.5213
+IFMG,Instituto Federal de Minas Gerais,Campus São João Evangelista,1951,MG,São João Evangelista,-18.548,-42.7655
+CPII,Colégio Pedro II,Campus Engenho Novo II,1952,RJ,Rio de Janeiro,-22.9129,-43.2003
+CPII,Colégio Pedro II,Campus Humaitá II,1952,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFC,Instituto Federal Catarinense,Campus Camboriú,1953,SC,Camboriú,-27.0241,-48.6503
+IF Goiano,Instituto Federal Goiano,Campus Urutaí,1953,GO,Urutaí,-17.4651,-48.2015
+IFC,Instituto Federal Catarinense,Campus Araquari,1954,SC,Araquari,-26.3754,-48.7188
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Uberaba,1954,MG,Uberaba,-19.7472,-47.9381
+IF Farroupilha,Instituto Federal Farroupilha,Campus Frederico Westphalen,1957,RS,Frederico Westphalen,-27.3586,-53.3958
+CPII,Colégio Pedro II,Campus Tijuca II,1957,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Sertão,1957,RS,Sertão,-27.9798,-52.2588
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Bento Gonçalves,1959,RS,Bento Gonçalves,-29.1662,-51.5165
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Januária,1960,MG,Januária,-15.4802,-44.3639
+IFCE,Instituto Federal do Ceará,Campus Iguatu,1962,CE,Iguatu,-6.36281,-39.2892
+IFCE,Instituto Federal do Ceará,Campus Iguatu,1962,CE,Iguatu,-24.7153,-53.0827
+IF Farroupilha,Instituto Federal Farroupilha,Campus Alegrete,1964,RS,Alegrete,-29.7902,-55.7949
+IF Baiano,Instituto Federal Baiano,Campus Catu,1964,BA,Catu,-12.3513,-38.3791
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Rio Grande,1964,RS,Rio Grande,-32.0349,-52.1071
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Rio Pomba,1964,MG,Rio Pomba,-21.2712,-43.1696
+IFC,Instituto Federal Catarinense,Campus Concórdia,1967,SC,Concórdia,-27.2335,-52.026
+IFMG,Instituto Federal de Minas Gerais,Campus Bambuí,1968,MG,Bambuí,-20.0166,-45.9754
+IF Goiano,Instituto Federal Goiano,Campus Rio Verde,1968,GO,Rio Verde,-17.7923,-50.9192
+IFF,Instituto Federal Fluminense,Campus Bom Jesus do Itabapoana,1970,RJ,Bom Jesus do Itabapoana,-21.1449,-41.6822
+IFMT,Instituto Federal de Mato Grosso,Campus Cáceres,1980,MT,Cáceres,-16.0764,-57.6818
+CPII,Colégio Pedro II,Campus São Cristóvão I,1984,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFTO,Instituto Federal do Tocantins,Campus Araguatins,1985,TO,Araguatins,-5.64659,-48.1232
+CPII,Colégio Pedro II,Campus Humaitá I,1985,RJ,Rio de Janeiro,-22.9129,-43.2003
+CPII,Colégio Pedro II,Campus Engenho Novo I,1986,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFPA,Instituto Federal do Pará,Campus Altamira,1987,PA,Altamira,-3.20407,-52.21
+IFSP,Instituto Federal de São Paulo,Campus Cubatão,1987,SP,Cubatão,-23.8911,-46.424
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Divinópolis,1987,MG,Divinópolis,-20.1446,-44.8912
+IFMA,Instituto Federal do Maranhão,Campus Imperatriz,1987,MA,Imperatriz,-5.51847,-47.4777
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Leopoldina,1987,MG,Leopoldina,-21.5296,-42.6421
+IFPA,Instituto Federal do Pará,Campus Marabá Industrial,1987,PA,Marabá,-5.38075,-49.1327
+CPII,Colégio Pedro II,Campus Tijuca I,1987,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFG,Instituto Federal de Goiás,Campus Jataí,1988,GO,Jataí,-17.8784,-51.7204
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Petrolina,1988,PE,Petrolina,-9.38866,-40.5027
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Petrolina Zona Rural,1988,PE,Petrolina,-9.38866,-40.5027
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Araxá,1992,MG,Araxá,-19.5902,-46.9438
+IFES,Instituto Federal do Espírito Santo,Campus Colatina,1992,ES,Colatina,-19.5493,-40.6269
+IFF,Instituto Federal Fluminense,Campus Macaé,1992,RJ,Macaé,-22.3768,-41.7848
+IFAM,Instituto Federal do Amazonas,Campus Manaus Distrito Industrial,1992,AM,Manaus,-3.11866,-60.0212
+IFAL,Instituto Federal de Alagoas,Campus Palmeira dos Índios,1992,AL,Palmeira dos Índios,-9.40568,-36.6328
+IFBA,Instituto Federal da Bahia,Campus Barreiras,1993,BA,Barreiras,-12.1439,-44.9968
+IF Goiano,Instituto Federal Goiano,Campus Ceres,1993,GO,Ceres,-15.3061,-49.6
+IFMA,Instituto Federal do Maranhão,Campus Codó,1993,MA,Codó,-4.45562,-43.8924
+IFRO,Instituto Federal de Rondônia,Campus Colorado do Oeste,1993,RO,Colorado do Oeste,-13.1174,-60.5454
+IFBA,Instituto Federal da Bahia,Campus Eunápolis,1993,BA,Eunápolis,-16.3715,-39.5821
+IF Baiano,Instituto Federal Baiano,Campus Guanambi,1993,BA,Guanambi,-14.2231,-42.7799
+IFC,Instituto Federal Catarinense,Campus Rio do Sul,1993,SC,Rio do Sul,-27.2156,-49.643
+IF Baiano,Instituto Federal Baiano,Campus Santa Inês - IF Baiano,1993,BA,Santa Inês,-13.2793,-39.814
+IF Baiano,Instituto Federal Baiano,Campus Santa Inês - IF Baiano,1993,BA,Santa Inês,-22.6376,-51.9024
+IF Baiano,Instituto Federal Baiano,Campus Santa Inês - IF Baiano,1993,BA,Santa Inês,-7.621,-38.554
+IF Baiano,Instituto Federal Baiano,Campus Santa Inês - IF Baiano,1993,BA,Santa Inês,-3.65112,-45.3774
+IFC,Instituto Federal Catarinense,Campus Santa Rosa do Sul,1993,SC,Santa Rosa do Sul,-29.1313,-49.7109
+IFAM,Instituto Federal do Amazonas,Campus São Gabriel da Cachoeira,1993,AM,São Gabriel da Cachoeira,-0.11909,-67.084
+IF Baiano,Instituto Federal Baiano,Campus Senhor do Bonfim,1993,BA,Senhor do Bonfim,-10.4594,-40.1865
+IFBA,Instituto Federal da Bahia,Campus Vitória da Conquista,1993,BA,Vitória da Conquista,-14.8615,-40.8442
+IFPB,Instituto Federal da Paraíba,Campus Cajazeiras,1994,PB,Cajazeiras,-6.88004,-38.5577
+IFPI,Instituto Federal do Piauí,Campus Floriano,1994,PI,Floriano,-6.77182,-43.0241
+IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul,1994,SC,Jaraguá do Sul,-26.4851,-49.0713
+IFS,Instituto Federal de Sergipe,Campus Lagarto,1994,SE,Lagarto,-10.9136,-37.6689
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Mossoró,1994,RN,Mossoró,-5.18374,-37.3474
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Nilópolis,1994,RJ,Nilópolis,-22.8057,-43.4233
+IFPA,Instituto Federal do Pará,Campus Tucuruí,1994,PA,Tucuruí,-3.7657,-49.6773
+IFBA,Instituto Federal da Bahia,Campus Valença Tento,1994,BA,Valença,-13.3669,-39.073
+IFBA,Instituto Federal da Bahia,Campus Valença Tento,1994,BA,Valença,-22.2445,-43.7129
+IFCE,Instituto Federal do Ceará,Campus Cedro,1995,CE,Cedro,-6.60034,-39.0609
+IFCE,Instituto Federal do Ceará,Campus Cedro,1995,CE,Cedro,-7.71179,-39.2367
+IFCE,Instituto Federal do Ceará,Campus Juazeiro do Norte,1995,CE,Juazeiro do Norte,-7.19621,-39.3076
+IFAL,Instituto Federal de Alagoas,Campus Marechal Deodoro,1995,AL,Marechal Deodoro,-9.70971,-35.8967
+IFSul,Instituto Federal Sul-rio-grandense,Campus Sapucaia do Sul,1995,RS,Sapucaia do Sul,-29.8276,-51.145
+IFSP,Instituto Federal de São Paulo,Campus Sertãozinho,1996,SP,Sertãozinho,-21.1316,-47.9875
+IFSP,Instituto Federal de São Paulo,Campus Sertãozinho,1996,SP,Sertãozinho,-6.75127,-35.4372
+IF Goiano,Instituto Federal Goiano,Campus Morrinhos,1997,GO,Morrinhos,-17.7334,-49.1059
+IF Goiano,Instituto Federal Goiano,Campus Morrinhos,1997,GO,Morrinhos,-3.23426,-40.1233
+CPII,Colégio Pedro II,Campus São Cristóvão III,1999,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Rio de Janeiro,1999,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFES,Instituto Federal do Espírito Santo,Campus Serra,2000,ES,Serra,-20.121,-40.3074
+IFES,Instituto Federal do Espírito Santo,Campus Cachoeiro de Itapemirim,2003,ES,Cachoeiro de Itapemirim,-20.8462,-41.1198
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Nova Iguaçu,2003,RJ,Nova Iguaçu,-22.7556,-43.4603
+IFTO,Instituto Federal do Tocantins,Campus Palmas - IFTO,2003,TO,Palmas,-26.4839,-51.9888
+IFTO,Instituto Federal do Tocantins,Campus Palmas - IFTO,2003,TO,Palmas,-10.24,-48.3558
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Paracambi,2003,RJ,Paracambi,-22.6078,-43.7108
+IFSC,Instituto Federal de Santa Catarina,Campus São José,2003,SC,São José,-27.6136,-48.6366
+CPII,Colégio Pedro II,Campus Realengo II,2004,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFSP,Instituto Federal de São Paulo,Campus Guarulhos,2005,SP,Guarulhos,-23.4538,-46.5333
+IFSP,Instituto Federal de São Paulo,Campus Bragança Paulista,2006,SP,Bragança Paulista,-22.9527,-46.5419
+IFMA,Instituto Federal do Maranhão,Campus Buriticupu,2006,MA,Buriticupu,-4.32375,-46.4409
+IFF,Instituto Federal Fluminense,Campus Campos Guarus,2006,RJ,Campos dos Goytacazes,-21.7622,-41.3181
+IFRR,Instituto Federal de Roraima,Campus Novo Paraíso,2006,RR,Caracaraí,1.82766,-61.1304
+IFSP,Instituto Federal de São Paulo,Campus Caraguatatuba,2006,SP,Caraguatatuba,-23.6125,-45.4125
+IFES,Instituto Federal do Espírito Santo,Campus Cariacica,2006,ES,Cariacica,-20.2632,-40.4165
+IFSC,Instituto Federal de Santa Catarina,Campus Chapecó,2006,SC,Chapecó,-27.1004,-52.6152
+IFSul,Instituto Federal Sul-rio-grandense,Campus Charqueadas,2006,RS,Charqueadas,-29.9625,-51.6289
+IFAM,Instituto Federal do Amazonas,Campus Coari,2006,AM,Coari,-4.09412,-63.1441
+IFMG,Instituto Federal de Minas Gerais,Campus Congonhas,2006,MG,Congonhas,-20.4958,-43.851
+IFMT,Instituto Federal de Mato Grosso,Campus Cuiabá Bela Vista,2006,MT,Cuiabá,-15.601,-56.0974
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Currais Novos,2006,RN,Currais Novos,-6.25484,-36.5146
+IFSC,Instituto Federal de Santa Catarina,Campus Florianópolis Continente,2006,SC,Florianópolis,-27.5945,-48.5477
+IFG,Instituto Federal de Goiás,Campus Inhumas,2006,GO,Inhumas,-16.3611,-49.5001
+IFSC,Instituto Federal de Santa Catarina,Campus Joinville,2006,SC,Joinville,-26.3045,-48.8487
+IFCE,Instituto Federal do Ceará,Campus Maracanaú,2006,CE,Maracanaú,-3.86699,-38.6259
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Nepomuceno,2006,MG,Nepomuceno,-21.2324,-45.235
+CPII,Colégio Pedro II,Campus Niterói - CPII,2006,RJ,Niterói,-22.8832,-43.1034
+IFTO,Instituto Federal do Tocantins,Campus Paraíso do Tocantins,2006,TO,Paraíso do Tocantins,-10.175,-48.8823
+IFPI,Instituto Federal do Piauí,Campus Parnaíba,2006,PI,Parnaíba,-2.90585,-41.7754
+IFPI,Instituto Federal do Piauí,Campus Picos,2006,PI,Picos,-7.07721,-41.467
+IFBA,Instituto Federal da Bahia,Campus Porto Seguro,2006,BA,Porto Seguro,-16.4435,-39.0643
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Maria da Graça,2006,RJ,Rio de Janeiro,-22.9129,-43.2003
+IFSP,Instituto Federal de São Paulo,Campus Salto,2006,SP,Salto,-23.1996,-47.2931
+IFBA,Instituto Federal da Bahia,Campus Santo Amaro,2006,BA,Santo Amaro,-12.5472,-38.7137
+IFSP,Instituto Federal de São Paulo,Campus São João da Boa Vista,2006,SP,São João da Boa Vista,-21.9707,-46.7944
+IFES,Instituto Federal do Espírito Santo,Campus São Mateus,2006,ES,São Mateus,-18.7214,-39.8579
+IFBA,Instituto Federal da Bahia,Campus Simões Filho,2006,BA,Simões Filho,-12.7866,-38.4029
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Timóteo,2006,MG,Timóteo,-19.5811,-42.6471
+IFMA,Instituto Federal do Maranhão,Campus Zé Doca,2006,MA,Zé Doca,-3.27014,-45.6553
+IFBA,Instituto Federal da Bahia,Campus Camaçari,2007,BA,Camaçari,-12.6996,-38.3263
+IFPB,Instituto Federal da Paraíba,Campus Campina Grande,2007,PB,Campina Grande,-7.22196,-35.8731
+IFPE,Instituto Federal de Pernambuco,Campus Ipojuca,2007,PE,Ipojuca,-8.39303,-35.0609
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Zona Norte,2007,RN,Natal,-5.79357,-35.1986
+IFSul,Instituto Federal Sul-rio-grandense,Campus Passo Fundo,2007,RS,Passo Fundo,-28.2576,-52.4091
+IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Augusto,2007,RS,Santo Augusto,-27.8526,-53.7776
+IFSP,Instituto Federal de São Paulo,Campus São Carlos - IFSP,2007,SP,São Carlos,-22.0174,-47.886
+IFSP,Instituto Federal de São Paulo,Campus São Carlos - IFSP,2007,SP,São Carlos,-27.0798,-53.0037
+IFPA,Instituto Federal do Pará,Campus Abaetetuba,2008,PA,Abaetetuba,-1.72183,-48.8788
+IFES,Instituto Federal do Espírito Santo,Campus Aracruz,2008,ES,Aracruz,-19.82,-40.2764
+IFSC,Instituto Federal de Santa Catarina,Campus Araranguá,2008,SC,Araranguá,-28.9356,-49.4918
+IFPE,Instituto Federal de Pernambuco,Campus Barreiros,2008,PE,Barreiros,-8.81605,-35.1832
+IFPE,Instituto Federal de Pernambuco,Campus Belo Jardim,2008,PE,Belo Jardim,-8.3313,-36.4258
+IFPA,Instituto Federal do Pará,Campus Bragança,2008,PA,Bragança,-1.06126,-46.7826
+IFB,Instituto Federal de Brasília,Campus Planaltina,2008,DF,Brasília,-15.7795,-47.9297
+IFF,Instituto Federal Fluminense,Campus Cabo Frio,2008,RJ,Cabo Frio,-22.8894,-42.0286
+IFMT,Instituto Federal de Mato Grosso,Campus Campo Novo do Parecis,2008,MT,Campo Novo do Parecis,-13.6587,-57.8907
+IFSP,Instituto Federal de São Paulo,Campus Campos do Jordão,2008,SP,Campos do Jordão,-22.7296,-45.5833
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Contagem,2008,MG,Contagem,-19.9321,-44.0539
+IFPR,Instituto Federal do Paraná,Campus Curitiba,2008,PR,Curitiba,-25.4195,-49.2646
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Duque de Caxias,2008,RJ,Duque de Caxias,-22.7858,-43.3049
+IFMG,Instituto Federal de Minas Gerais,Campus Formiga,2008,MG,Formiga,-20.4618,-45.4268
+IFS,Instituto Federal de Sergipe,Campus Itabaiana - IFS,2008,SE,Itabaiana,-7.33167,-35.3317
+IFS,Instituto Federal de Sergipe,Campus Itabaiana - IFS,2008,SE,Itabaiana,-10.6826,-37.4273
+IFG,Instituto Federal de Goiás,Campus Itumbiara,2008,GO,Itumbiara,-18.4093,-49.2158
+IFCE,Instituto Federal do Ceará,Campus Limoeiro do Norte,2008,CE,Limoeiro do Norte,-5.14392,-38.0847
+IFES,Instituto Federal do Espírito Santo,Campus Linhares,2008,ES,Linhares,-19.3946,-40.0643
+IFAL,Instituto Federal de Alagoas,Campus Maragogi,2008,AL,Maragogi,-9.00744,-35.2267
+IFS,Instituto Federal de Sergipe,Campus Nossa Senhora da Glória,2008,SE,Nossa Senhora da Glória,-10.2158,-37.4211
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Nova Friburgo,2008,RJ,Nova Friburgo,-22.2932,-42.5377
+IFES,Instituto Federal do Espírito Santo,Campus Nova Venécia,2008,ES,Nova Venécia,-18.715,-40.4053
+IFPR,Instituto Federal do Paraná,Campus Paranaguá,2008,PR,Paranaguá,-25.5161,-48.5225
+IFPE,Instituto Federal de Pernambuco,Campus Pesqueira,2008,PE,Pesqueira,-8.35797,-36.6978
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Petrópolis,2008,RJ,Petrópolis,-22.52,-43.1926
+IFMT,Instituto Federal de Mato Grosso,Campus Pontes e Lacerda,2008,MT,Pontes e Lacerda,-15.2219,-59.3435
+IFCE,Instituto Federal do Ceará,Campus Quixadá,2008,CE,Quixadá,-4.9663,-39.0155
+IFPE,Instituto Federal de Pernambuco,Campus Recife,2008,PE,Recife,-8.04666,-34.8771
+IFSP,Instituto Federal de São Paulo,Campus São Roque,2008,SP,São Roque,-23.5226,-47.1357
+IF Farroupilha,Instituto Federal Farroupilha,Campus São Vicente do Sul,2008,RS,São Vicente do Sul,-29.6882,-54.6826
+IFCE,Instituto Federal do Ceará,Campus Sobral,2008,CE,Sobral,-3.68913,-40.3482
+IFG,Instituto Federal de Goiás,Campus Uruaçu,2008,GO,Uruaçu,-14.5238,-49.1396
+IFPE,Instituto Federal de Pernambuco,Campus Vitória de Santo Antão,2008,PE,Vitória de Santo Antão,-8.12819,-35.2976
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Volta Redonda,2008,RJ,Volta Redonda,-22.5202,-44.0996
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Apodi,2009,RN,Apodi,-5.65349,-37.7946
+IFTO,Instituto Federal do Tocantins,Campus Araguaína,2009,TO,Araguaína,-7.19238,-48.2044
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Caicó,2009,RN,Caicó,-6.45441,-37.1067
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Ipanguaçu,2009,RN,Ipanguaçu,-5.48984,-36.8501
+IFF,Instituto Federal Fluminense,Campus Itaperuna,2009,RJ,Itaperuna,-21.1997,-41.8799
+IFRN,Instituto Federal do Rio Grande do Norte,Campus João Câmara,2009,RN,João Câmara,-5.54094,-35.8122
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Macau,2009,RN,Macau,-5.10795,-36.6318
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Pau dos Ferros,2009,RN,Pau dos Ferros,-6.10498,-38.2077
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Santa Cruz,2009,RN,Santa Cruz,-6.22475,-36.0193
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Santa Cruz,2009,RN,Santa Cruz,-6.5237,-38.0617
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Santa Cruz,2009,RN,Santa Cruz,-8.24153,-40.3434
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Valença,2009,RJ,Valença,-13.3669,-39.073
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Valença,2009,RJ,Valença,-22.2445,-43.7129
+IFMA,Instituto Federal do Maranhão,Campus Açailândia,2010,MA,Açailândia,-4.94714,-47.5004
+IFCE,Instituto Federal do Ceará,Campus Acaraú,2010,CE,Acaraú,-2.88769,-40.1183
+IFPE,Instituto Federal de Pernambuco,Campus Afogados da Ingazeira,2010,PE,Afogados da Ingazeira,-7.74312,-37.631
+IFMA,Instituto Federal do Maranhão,Campus Alcântara,2010,MA,Alcântara,-2.39574,-44.4062
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Almenara,2010,MG,Almenara,-16.1785,-40.6942
+IFRR,Instituto Federal de Roraima,Campus Amajari,2010,RR,Amajari,3.64571,-61.3692
+IFG,Instituto Federal de Goiás,Campus Anápolis,2010,GO,Anápolis,-16.3281,-48.953
+IFPI,Instituto Federal do Piauí,Campus Angical do Piauí,2010,PI,Angical do Piauí,-6.08786,-42.74
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Angra dos Reis,2010,RJ,Angra dos Reis,-23.0011,-44.3196
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Araçuaí,2010,MG,Araçuaí,-16.8523,-42.0637
+IFAL,Instituto Federal de Alagoas,Campus Arapiraca,2010,AL,Arapiraca,-9.75487,-36.6615
+IFSP,Instituto Federal de São Paulo,Campus Araraquara,2010,SP,Araraquara,-21.7845,-48.178
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Arinos,2010,MG,Arinos,-15.9187,-46.1043
+IFRO,Instituto Federal de Rondônia,Campus Ariquemes,2010,RO,Ariquemes,-9.90571,-63.0325
+IFSP,Instituto Federal de São Paulo,Campus Avaré,2010,SP,Avaré,-23.1067,-48.9251
+IFMA,Instituto Federal do Maranhão,Campus Bacabal,2010,MA,Bacabal,-4.22447,-44.7832
+IFSul,Instituto Federal Sul-rio-grandense,Campus Bagé,2010,RS,Bagé,-31.3297,-54.0999
+IFMA,Instituto Federal do Maranhão,Campus Barra do Corda,2010,MA,Barra do Corda,-5.49682,-45.2485
+IFMT,Instituto Federal de Mato Grosso,Campus Barra do Garças,2010,MT,Barra do Garças,-15.8804,-52.264
+IFMA,Instituto Federal do Maranhão,Campus Barreirinhas,2010,MA,Barreirinhas,-2.75863,-42.8232
+IFSP,Instituto Federal de São Paulo,Campus Barretos,2010,SP,Barretos,-20.5531,-48.5698
+IFSP,Instituto Federal de São Paulo,Campus Birigui,2010,SP,Birigui,-21.291,-50.3432
+IFRR,Instituto Federal de Roraima,Campus Boa Vista,2010,RR,Boa Vista,2.82384,-60.6753
+IFRR,Instituto Federal de Roraima,Campus Boa Vista,2010,RR,Boa Vista,-7.26365,-36.2357
+IF Baiano,Instituto Federal Baiano,Campus Bom Jesus da Lapa,2010,BA,Bom Jesus da Lapa,-13.2506,-43.4108
+IFB,Instituto Federal de Brasília,Campus Brasília,2010,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus Gama,2010,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus Samambaia,2010,DF,Brasília,-15.7795,-47.9297
+IFB,Instituto Federal de Brasília,Campus Taguatinga,2010,DF,Brasília,-15.7795,-47.9297
+IFPB,Instituto Federal da Paraíba,Campus Cabedelo,2010,PB,Cabedelo,-6.98731,-34.8284
+IFSul,Instituto Federal Sul-rio-grandense,Campus Camaquã,2010,RS,Camaquã,-30.8489,-51.8043
+IFSP,Instituto Federal de São Paulo,Campus Campinas,2010,SP,Campinas,-22.9053,-47.0659
+IFCE,Instituto Federal do Ceará,Campus Canindé,2010,CE,Canindé,-4.35162,-39.3155
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Canoas,2010,RS,Canoas,-29.9128,-51.1857
+IFSC,Instituto Federal de Santa Catarina,Campus Canoinhas,2010,SC,Canoinhas,-26.1766,-50.395
+IFPE,Instituto Federal de Pernambuco,Campus Caruaru,2010,PE,Caruaru,-8.28455,-35.9699
+IFSP,Instituto Federal de São Paulo,Campus Catanduva,2010,SP,Catanduva,-21.1314,-48.977
+IFMA,Instituto Federal do Maranhão,Campus Caxias,2010,MA,Caxias,-4.86505,-43.3617
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Caxias do Sul,2010,RS,Caxias do Sul,-29.1629,-51.1792
+IFPA,Instituto Federal do Pará,Campus Conceição do Araguaia,2010,PA,Conceição do Araguaia,-8.26136,-49.2689
+IFMT,Instituto Federal de Mato Grosso,Campus Confresa,2010,MT,Confresa,-10.6437,-51.5699
+IFPI,Instituto Federal do Piauí,Campus Corrente,2010,PI,Corrente,-10.4333,-45.1633
+IFCE,Instituto Federal do Ceará,Campus Crateús,2010,CE,Crateús,-5.16768,-40.6536
+IFSC,Instituto Federal de Santa Catarina,Campus Criciúma,2010,SC,Criciúma,-28.6723,-49.3729
+IFAC,Instituto Federal do Acre,Campus Cruzeiro do Sul,2010,AC,Cruzeiro do Sul,-22.9624,-52.1622
+IFAC,Instituto Federal do Acre,Campus Cruzeiro do Sul,2010,AC,Cruzeiro do Sul,-29.5148,-51.9928
+IFAC,Instituto Federal do Acre,Campus Cruzeiro do Sul,2010,AC,Cruzeiro do Sul,-7.62762,-72.6756
+CEFET-MG,Centro Federal de Educação Tecnológica de Minas Gerais,Uned Curvelo,2010,MG,Curvelo,-18.7527,-44.4303
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Erechim,2010,RS,Erechim,-27.6364,-52.2697
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Floresta,2010,PE,Floresta,-23.6031,-52.0807
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Floresta,2010,PE,Floresta,-8.60307,-38.5687
+IFG,Instituto Federal de Goiás,Campus Formosa,2010,GO,Formosa,-15.54,-47.337
+IFPR,Instituto Federal do Paraná,Campus Foz do Iguaçu,2010,PR,Foz do Iguaçu,-25.5427,-54.5827
+IFPE,Instituto Federal de Pernambuco,Campus Garanhuns,2010,PE,Garanhuns,-8.88243,-36.4966
+IFSC,Instituto Federal de Santa Catarina,Campus Gaspar,2010,SC,Gaspar,-26.9336,-48.9534
+IFMG,Instituto Federal de Minas Gerais,Campus Governador Valadares,2010,MG,Governador Valadares,-18.8545,-41.9555
+IFTO,Instituto Federal do Tocantins,Campus Gurupi,2010,TO,Gurupi,-11.7279,-49.068
+IFSP,Instituto Federal de São Paulo,Campus Hortolândia,2010,SP,Hortolândia,-22.8529,-47.2143
+IFES,Instituto Federal do Espírito Santo,Campus Ibatiba,2010,ES,Ibatiba,-20.2347,-41.5087
+IF Goiano,Instituto Federal Goiano,Campus Iporá,2010,GO,Iporá,-16.4398,-51.118
+IFBA,Instituto Federal da Bahia,Campus Irecê,2010,BA,Irecê,-11.3033,-41.8535
+CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Itaguaí,2010,RJ,Itaguaí,-22.8636,-43.7798
+IFPA,Instituto Federal do Pará,Campus Itaituba,2010,PA,Itaituba,-4.2667,-55.9926
+IFSC,Instituto Federal de Santa Catarina,Campus Itajaí,2010,SC,Itajaí,-26.9101,-48.6705
+IF Baiano,Instituto Federal Baiano,Campus Itapetinga,2010,BA,Itapetinga,-15.2475,-40.2482
+IFSP,Instituto Federal de São Paulo,Campus Itapetininga,2010,SP,Itapetininga,-23.5886,-48.0483
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Ituiutaba,2010,MG,Ituiutaba,-18.9772,-49.4639
+IFCE,Instituto Federal do Ceará,Campus Tauá,2013,CE,Tauá,-5.98585,-40.2968
+IFCE,Instituto Federal do Ceará,Campus Tianguá,2013,CE,Tianguá,-3.72965,-40.9923
+IFSC,Instituto Federal de Santa Catarina,Campus Tubarão,2013,SC,Tubarão,-28.4713,-49.0144
+IFCE,Instituto Federal do Ceará,Campus Ubajara,2013,CE,Ubajara,-3.85448,-40.9204
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Uberlândia Centro,2013,MG,Uberlândia,-18.9141,-48.2749
+IFCE,Instituto Federal do Ceará,Campus Umirim,2013,CE,Umirim,-3.67654,-39.3465
+IFSC,Instituto Federal de Santa Catarina,Campus Urupema,2013,SC,Urupema,-27.9557,-49.8729
+IFMT,Instituto Federal de Mato Grosso,Campus Várzea Grande,2013,MT,Várzea Grande,-6.54899,-42.248
+IFMT,Instituto Federal de Mato Grosso,Campus Várzea Grande,2013,MT,Várzea Grande,-15.6458,-56.1322
+IFES,Instituto Federal do Espírito Santo,Campus Venda Nova do Imigrante,2013,ES,Venda Nova do Imigrante,-20.327,-41.1355
+IFSC,Instituto Federal de Santa Catarina,Campus Xanxerê,2013,SC,Xanxerê,-26.8747,-52.4036
+IFAC,Instituto Federal do Acre,Campus Xapuri,2013,AC,Xapuri,-10.6516,-68.4969
+IFG,Instituto Federal de Goiás,Campus Águas Lindas de Goiás,2014,GO,Águas Lindas de Goiás,-15.7617,-48.2816
+IFPR,Instituto Federal do Paraná,Campus Avançado Barracão,2014,PR,Barracão,-27.6739,-51.4585
+IFPR,Instituto Federal do Paraná,Campus Avançado Barracão,2014,PR,Barracão,-26.2502,-53.6324
+IFAL,Instituto Federal de Alagoas,Campus Batalha,2014,AL,Batalha,-4.0223,-42.0787
+IFAL,Instituto Federal de Alagoas,Campus Batalha,2014,AL,Batalha,-9.6742,-37.133
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Bom Sucesso,2014,MG,Bom Sucesso,-21.0329,-44.7537
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Bom Sucesso,2014,MG,Bom Sucesso,-23.7063,-51.7671
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Bom Sucesso,2014,MG,Bom Sucesso,-6.44176,-37.9234
+IFF,Instituto Federal Fluminense,Campus Avançado Cambuci,2014,RJ,Cambuci,-21.5691,-41.9187
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Avançado Campina Verde,2014,MG,Campina Verde,-19.5382,-49.4862
+IFPI,Instituto Federal do Piauí,Campus Campo Maior,2014,PI,Campo Maior,-4.8217,-42.1641
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Avançado Carmo de Minas,2014,MG,Carmo de Minas,-22.1204,-45.1307
+IFMA,Instituto Federal do Maranhão,Campus Avançado Carolina,2014,MA,Carolina,-7.33584,-47.4634
+IFPR,Instituto Federal do Paraná,Campus Cascavel,2014,PR,Cascavel,-24.9573,-53.459
+IFPR,Instituto Federal do Paraná,Campus Cascavel,2014,PR,Cascavel,-4.12967,-38.2412
+IF Goiano,Instituto Federal Goiano,Campus Avançado Catalão,2014,GO,Catalão,-18.1656,-47.944
+IFPI,Instituto Federal do Piauí,Campus Cocal,2014,PI,Cocal,-3.47279,-41.5546
+IFTO,Instituto Federal do Tocantins,Campus Colinas do Tocantins,2014,TO,Colinas do Tocantins,-8.05764,-48.4757
+IFAL,Instituto Federal de Alagoas,Campus Coruripe,2014,AL,Coruripe,-10.1276,-36.1717
+IF Goiano,Instituto Federal Goiano,Campus Cristalina,2014,GO,Cristalina,-16.7676,-47.6131
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Diamantino,2014,MT,Diamantino,-14.4037,-56.4366
+IFS,Instituto Federal de Sergipe,Campus Estância,2014,SE,Estância,-11.2659,-37.4484
+IFG,Instituto Federal de Goiás,Campus Goiânia Oeste,2014,GO,Goiânia,-16.6864,-49.2643
+IFCE,Instituto Federal do Ceará,Campus Avançado Guaramiranga,2014,CE,Guaramiranga,-4.26248,-38.932
+IF Goiano,Instituto Federal Goiano,Campus Avançado Hidrolândia,2014,GO,Hidrolândia,-16.9626,-49.2265
+IF Goiano,Instituto Federal Goiano,Campus Avançado Hidrolândia,2014,GO,Hidrolândia,-4.40958,-40.4056
+IF Goiano,Instituto Federal Goiano,Campus Avançado Ipameri,2014,GO,Ipameri,-17.7215,-48.1581
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Ipatinga,2014,MG,Ipatinga,-19.4703,-42.5476
+IFSul,Instituto Federal Sul-rio-grandense,Campus Avançado Jaguarão,2014,RS,Jaguarão,-32.5604,-53.377
+IFCE,Instituto Federal do Ceará,Campus Avançado Jaguaruana,2014,CE,Jaguaruana,-4.83151,-37.781
+IFTO,Instituto Federal do Tocantins,Campus Avançado Lagoa da Confusão,2014,TO,Lagoa da Confusão,-10.7906,-49.6199
+IFAM,Instituto Federal do Amazonas,Campus Avançado Manacapuru,2014,AM,Manacapuru,-3.29066,-60.6216
+IFES,Instituto Federal do Espírito Santo,Campus Montanha,2014,ES,Montanha,-18.1303,-40.3668
+IFPE,Instituto Federal de Pernambuco,Campus Palmares,2014,PE,Palmares,-8.68423,-35.589
+IFPA,Instituto Federal do Pará,Campus Parauapebas,2014,PA,Parauapebas,-6.06781,-49.9037
+IFTO,Instituto Federal do Tocantins,Campus Avançado Pedro Afonso,2014,TO,Pedro Afonso,-8.97034,-48.1729
+IFPI,Instituto Federal do Piauí,Campus Avançado PIO IX,2014,PI,Pio IX,-6.83002,-40.6083
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Piumhi,2014,MG,Piumhi,-20.4762,-45.9589
+IFMA,Instituto Federal do Maranhão,Campus Avançado Porto Franco,2014,MA,Porto Franco,-6.34149,-47.3962
+IFS,Instituto Federal de Sergipe,Campus Propriá,2014,SE,Propriá,-10.2138,-36.8442
+IFAC,Instituto Federal do Acre,Campus Rio Branco Baixada do Sol,2014,AC,Rio Branco,-15.2483,-58.1259
+IFAC,Instituto Federal do Acre,Campus Rio Branco Baixada do Sol,2014,AC,Rio Branco,-9.97499,-67.8243
+IFAL,Instituto Federal de Alagoas,Campus Rio Largo,2014,AL,Rio Largo,-9.47783,-35.8394
+IFMA,Instituto Federal do Maranhão,Campus Avançado Rosário,2014,MA,Rosário,-2.93444,-44.2531
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Santa Maria da Boa Vista,2014,PE,Santa Maria da Boa Vista,-8.79766,-39.8241
+IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Ângelo,2014,RS,Santo Ângelo,-28.3001,-54.2668
+IFF,Instituto Federal Fluminense,Campus Avançado São João da Barra,2014,RJ,São João da Barra,-21.638,-41.0446
+IFMA,Instituto Federal do Maranhão,Campus São José de Ribamar,2014,MA,São José de Ribamar,-2.54704,-44.0597
+IFG,Instituto Federal de Goiás,Campus Senador Canedo,2014,GO,Senador Canedo,-16.7084,-49.0914
+IF Sertão-PE,Instituto Federal do Sertão Pernambucano,Campus Serra Talhada,2014,PE,Serra Talhada,-7.98178,-38.289
+IFC,Instituto Federal Catarinense,Campus Avançado Sombrio,2014,SC,Sombrio,-29.108,-49.6328
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Tangará da Serra,2014,MT,Tangará da Serra,-14.6229,-57.4933
+IFPI,Instituto Federal do Piauí,Campus Avançado Teresina Dirceu Arcoverde,2014,PI,Teresina,-5.09194,-42.8034
+IFS,Instituto Federal de Sergipe,Campus Tobias Barreto,2014,SE,Tobias Barreto,-11.1798,-37.9995
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Campus Avançado Três Corações,2014,MG,Três Corações,-21.6921,-45.2511
+IF Farroupilha,Instituto Federal Farroupilha,Campus Avançado Uruguaiana,2014,RS,Uruguaiana,-29.7614,-57.0853
+IFPI,Instituto Federal do Piauí,Campus Valença do Piauí,2014,PI,Valença do Piauí,-6.40301,-41.7375
+IFES,Instituto Federal do Espírito Santo,Campus Avançado Viana,2014,ES,Viana,-20.3825,-40.4933
+IFES,Instituto Federal do Espírito Santo,Campus Avançado Viana,2014,ES,Viana,-3.20451,-44.9912
+IFMA,Instituto Federal do Maranhão,Campus Viana,2014,MA,Viana,-20.3825,-40.4933
+IFMA,Instituto Federal do Maranhão,Campus Viana,2014,MA,Viana,-3.20451,-44.9912
+IFAL,Instituto Federal de Alagoas,Campus Viçosa,2014,AL,Viçosa,-5.98253,-37.9462
+IFAL,Instituto Federal de Alagoas,Campus Viçosa,2014,AL,Viçosa,-9.36763,-36.2431
+IFAL,Instituto Federal de Alagoas,Campus Viçosa,2014,AL,Viçosa,-20.7559,-42.8742
+IFPA,Instituto Federal do Pará,Campus Avançado Vigia,2014,PA,Vigia,-0.861194,-48.1386
+IFC,Instituto Federal Catarinense,Campus Avançado Abelardo Luz,2015,SC,Abelardo Luz,-26.5716,-52.3229
+IFMT,Instituto Federal de Mato Grosso,Campus Alta Floresta,2015,MT,Alta Floresta,-9.86674,-56.0867
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Alvorada,2015,RS,Alvorada,-12.4785,-49.1249
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Alvorada,2015,RS,Alvorada,-29.9914,-51.0809
+IFPR,Instituto Federal do Paraná,Campus Avançado Astorga,2015,PR,Astorga,-23.2318,-51.6668
+IFRR,Instituto Federal de Roraima,Campus Avançado Bonfim,2015,RR,Bonfim,3.36161,-59.8333
+IFRR,Instituto Federal de Roraima,Campus Avançado Bonfim,2015,RR,Bonfim,-20.3302,-44.2366
+IFPB,Instituto Federal da Paraíba,Campus Avançado Cabedelo Centro,2015,PB,Cabedelo,-6.98731,-34.8284
+IFF,Instituto Federal Fluminense,Polo de Inovação Campos dos Goytacazes,2015,RJ,Campos dos Goytacazes,-21.7622,-41.3181
+IFPR,Instituto Federal do Paraná,Campus Capanema,2015,PR,Capanema,-1.20529,-47.1778
+IFPR,Instituto Federal do Paraná,Campus Capanema,2015,PR,Capanema,-25.6691,-53.8055
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Cataguases,2015,MG,Cataguases,-21.3924,-42.6896
+IFPB,Instituto Federal da Paraíba,Campus Catolé do Rocha,2015,PB,Catolé do Rocha,-6.34062,-37.747
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Conselheiro Lafaiete,2015,MG,Conselheiro Lafaiete,-20.6634,-43.7846
+IFPR,Instituto Federal do Paraná,Campus Avançado Coronel Vivida,2015,PR,Coronel Vivida,-25.9767,-52.5641
+IFBA,Instituto Federal da Bahia,Campus Euclides da Cunha,2015,BA,Euclides da Cunha,-10.5078,-39.0153
+IFMG,Instituto Federal de Minas Gerais,Polo de Inovação Formiga,2015,MG,Formiga,-20.4618,-45.4268
+IFTO,Instituto Federal do Tocantins,Campus Avançado Formoso do Araguaia,2015,TO,Formoso do Araguaia,-11.7976,-49.5316
+IFCE,Instituto Federal do Ceará,Polo de Inovação Fortaleza,2015,CE,Fortaleza,-3.71664,-38.5423
+IFPR,Instituto Federal do Paraná,Campus Avançado Goioerê,2015,PR,Goioerê,-24.1835,-53.0248
+IFSP,Instituto Federal de São Paulo,Campus Avançado Ilha Solteira,2015,SP,Ilha Solteira,-20.4326,-51.3426
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Itabirito,2015,MG,Itabirito,-20.2501,-43.8038
+IFSP,Instituto Federal de São Paulo,Campus Jacareí,2015,SP,Jacareí,-23.2983,-45.9658
+IFPR,Instituto Federal do Paraná,Campus Jaguariaíva,2015,PR,Jaguariaíva,-24.2439,-49.7066
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Avançado Janaúba,2015,MG,Janaúba,-15.8022,-43.3132
+IFBA,Instituto Federal da Bahia,Campus Juazeiro,2015,BA,Juazeiro,-9.41622,-40.5033
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Lajes,2015,RN,Lajes,-5.69322,-36.247
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Manhuaçu,2015,MG,Manhuaçu,-20.2572,-42.028
+IFF,Instituto Federal Fluminense,Campus Avançado Maricá,2015,RJ,Maricá,-22.9354,-42.8246
+IFAL,Instituto Federal de Alagoas,Campus Murici,2015,AL,Murici,-9.30682,-35.9428
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Parelhas,2015,RN,Parelhas,-6.68491,-36.6566
+IFPR,Instituto Federal do Paraná,Campus Pinhais,2015,PR,Pinhais,-25.4429,-49.1927
+IFPR,Instituto Federal do Paraná,Campus Pitanga,2015,PR,Pitanga,-24.7588,-51.7596
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Ponte Nova,2015,MG,Ponte Nova,-20.4111,-42.8978
+IF Goiano,Instituto Federal Goiano,Campus Posse,2015,GO,Posse,-14.0859,-46.3704
+IFPR,Instituto Federal do Paraná,Campus Avançado Quedas do Iguaçu,2015,PR,Quedas do Iguaçu,-25.4492,-52.9102
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Rolante,2015,RS,Rolante,-29.6462,-50.5819
+IFBA,Instituto Federal da Bahia,Polo de Inovação Salvador,2015,BA,Salvador,-12.9718,-38.5011
+IFAP,Instituto Federal do Amapá,Campus Santana,2015,AP,Santana,-12.9792,-44.0506
+IFAP,Instituto Federal do Amapá,Campus Santana,2015,AP,Santana,-0.045434,-51.1729
+IFF,Instituto Federal Fluminense,Campus Santo Antônio de Pádua,2015,RJ,Santo Antônio de Pádua,-21.541,-42.1832
+IFSC,Instituto Federal de Santa Catarina,Campus Avançado São Lourenço do Oeste,2015,SC,São Lourenço do Oeste,-26.3557,-52.8498
+IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Ubá,2015,MG,Ubá,-21.1204,-42.9359
+IFBA,Instituto Federal da Bahia,Campus Avançado Ubaitaba,2015,BA,Ubaitaba,-14.303,-39.3222
+IFTM,Instituto Federal do Triângulo Mineiro,Campus Avançado Uberaba Parque Tecnológico,2015,MG,Uberaba,-19.7472,-47.9381
+IFPR,Instituto Federal do Paraná,Campus União da Vitória,2015,PR,União da Vitória,-26.2273,-51.0873
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Vacaria,2015,RS,Vacaria,-28.5079,-50.9418
+IFG,Instituto Federal de Goiás,Campus Valparaíso de Goiás,2015,GO,Valparaíso de Goiás,-16.0651,-47.9757
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Avançado Veranópolis,2015,RS,Veranópolis,-28.9312,-51.5516
+IFES,Instituto Federal do Espírito Santo,Polo de Inovação Vitória,2015,ES,Vitória,-20.3155,-40.3128
+IF Baiano,Instituto Federal Baiano,Campus Alagoinhas,2016,BA,Alagoinhas,-12.1335,-38.4208
+IFPA,Instituto Federal do Pará,Campus Ananindeua,2016,PA,Ananindeua,-1.36391,-48.3743
+IFMA,Instituto Federal do Maranhão,Campus Araioses,2016,MA,Araioses,-2.89091,-41.905
+IFMG,Instituto Federal de Minas Gerais,Campus Avançado Arcos,2016,MG,Arcos,-20.2863,-45.5373
+IFES,Instituto Federal do Espírito Santo,Campus Barra de São Francisco,2016,ES,Barra de São Francisco,-18.7548,-40.8965
+IFCE,Instituto Federal do Ceará,Campus Boa Viagem,2016,CE,Boa Viagem,-5.11258,-39.7337
+IFPA,Instituto Federal do Pará,Campus Cametá,2016,PA,Cametá,-2.24295,-49.4979
+IF Goiano,Instituto Federal Goiano,Campus Campos Belos,2016,GO,Campos Belos,-13.035,-46.7681
+IFCE,Instituto Federal do Ceará,Campus Pecém,2016,CE,Caucaia,-3.72797,-38.6619
+IFPR,Instituto Federal do Paraná,Campus Colombo,2016,PR,Colombo,-25.2925,-49.2262
+IFPB,Instituto Federal da Paraíba,Campus Avançado João Pessoa Mangabeira,2016,PB,Coronel João Pessoa,-6.24974,-38.4441
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Diamantina,2016,MG,Diamantina,-18.2413,-43.6031
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Dourados,2016,MS,Dourados,-22.2231,-54.812
+IFAM,Instituto Federal do Amazonas,Campus Eirunepé,2016,AM,Eirunepé,-6.65677,-69.8662
+IFPB,Instituto Federal da Paraíba,Campus Esperança,2016,PB,Esperança,-7.02278,-35.8597
+IFRO,Instituto Federal de Rondônia,Campus Guajará-Mirim,2016,RO,Guajará-Mirim,-10.7889,-65.3296
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Guarantã do Norte,2016,MT,Guarantã do Norte,-9.96218,-54.9121
+IFCE,Instituto Federal do Ceará,Campus Horizonte,2016,CE,Horizonte,-4.1209,-38.4707
+IFPE,Instituto Federal de Pernambuco,Campus Igarassu,2016,PE,Igarassu,-7.82881,-34.9013
+IFPB,Instituto Federal da Paraíba,Campus Itabaiana - IFPB,2016,PB,Itabaiana,-7.33167,-35.3317
+IFPB,Instituto Federal da Paraíba,Campus Itabaiana - IFPB,2016,PB,Itabaiana,-10.6826,-37.4273
+IF Baiano,Instituto Federal Baiano,Campus Itaberaba,2016,BA,Itaberaba,-12.5242,-40.3059
+IFAM,Instituto Federal do Amazonas,Campus Itacoatiara,2016,AM,Itacoatiara,-3.13861,-58.4449
+IFMA,Instituto Federal do Maranhão,Campus Itapecuru Mirim,2016,MA,Itapecuru-Mirim,,
+IFCE,Instituto Federal do Ceará,Campus Itapipoca,2016,CE,Itapipoca,-3.49933,-39.5836
+IFPB,Instituto Federal da Paraíba,Campus Itaporanga,2016,PB,Itaporanga,-23.7043,-49.4819
+IFPB,Instituto Federal da Paraíba,Campus Itaporanga,2016,PB,Itaporanga,-7.30202,-38.1504
+IFSP,Instituto Federal de São Paulo,Campus Itaquaquecetuba,2016,SP,Itaquaquecetuba,-23.4835,-46.3457
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Jardim,2016,MS,Jardim,-7.57599,-39.2826
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Jardim,2016,MS,Jardim,-21.4799,-56.1489
+IFRO,Instituto Federal de Rondônia,Campus Jaru,2016,RO,Jaru,-10.4318,-62.4788
+IFPI,Instituto Federal do Piauí,Campus Avançado José de Freitas,2016,PI,José de Freitas,-4.75146,-42.5746
+IFSP,Instituto Federal de São Paulo,Campus Avançado Jundiaí,2016,SP,Jundiaí,-23.1852,-46.8974
+IFBA,Instituto Federal da Bahia,Campus Lauro de Freitas,2016,BA,Lauro de Freitas,-12.8978,-38.321
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Lucas do Rio Verde,2016,MT,Lucas do Rio Verde,-13.0588,-55.9042
+IFAL,Instituto Federal de Alagoas,Campus Avançado Maceió Benedito Bentes,2016,AL,Maceió,-9.66599,-35.735
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Avançado Mesquita,2016,RJ,Mesquita,-22.8028,-43.4601
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Avançado Mesquita,2016,RJ,Mesquita,-19.224,-42.6079
+IFMS,Instituto Federal de Mato Grosso do Sul,Campus Naviraí,2016,MS,Naviraí,-23.0618,-54.1995
+IFS,Instituto Federal de Sergipe,Campus Nossa Senhora do Socorro,2016,SE,Nossa Senhora do Socorro,-10.8468,-37.1231
+IFSul,Instituto Federal Sul-rio-grandense,Campus Novo Hamburgo,2016,RS,Novo Hamburgo,-29.6875,-51.1328
+IFAP,Instituto Federal do Amapá,Campus Avançado Oiapoque,2016,AP,Oiapoque,3.84074,-51.8331
+IFPE,Instituto Federal de Pernambuco,Campus Olinda,2016,PE,Olinda,-8.01017,-34.8545
+IFCE,Instituto Federal do Ceará,Campus Paracuru,2016,CE,Paracuru,-3.41436,-39.03
+IFPA,Instituto Federal do Pará,Campus Paragominas,2016,PA,Paragominas,-3.00212,-47.3527
+IFPE,Instituto Federal de Pernambuco,Campus Paulista,2016,PE,Paulista,-6.59138,-37.6185
+IFPE,Instituto Federal de Pernambuco,Campus Paulista,2016,PE,Paulista,-7.93401,-34.8684
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Avançado Porteirinha,2016,MG,Porteirinha,-15.7404,-43.0281
+IFAP,Instituto Federal do Amapá,Campus Porto Grande,2016,AP,Porto Grande,0.71243,-51.4155
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Avançado Resende,2016,RJ,Resende,-22.4705,-44.4509
+IFES,Instituto Federal do Espírito Santo,Campus Centro Serrano,2016,ES,Santa Maria de Jetibá,-20.0253,-40.7439
+IFPB,Instituto Federal da Paraíba,Campus Santa Rita,2016,PB,Santa Rita,-3.14241,-44.3211
+IFPB,Instituto Federal da Paraíba,Campus Santa Rita,2016,PB,Santa Rita,-7.11724,-34.9753
+IFBA,Instituto Federal da Bahia,Campus Santo Antônio de Jesus,2016,BA,Santo Antônio de Jesus,-12.9614,-39.2584
+IFC,Instituto Federal Catarinense,Campus São Bento do Sul,2016,SC,São Bento do Sul,-26.2495,-49.3831
+IFSP,Instituto Federal de São Paulo,Campus São Paulo Pirituba,2016,SP,São Paulo,-23.5329,-46.6395
+IF Baiano,Instituto Federal Baiano,Campus Serrinha,2016,BA,Serrinha,-6.28181,-35.5
+IF Baiano,Instituto Federal Baiano,Campus Serrinha,2016,BA,Serrinha,-11.6584,-39.01
+IFMT,Instituto Federal de Mato Grosso,Campus Avançado Sinop,2016,MT,Sinop,-11.8604,-55.5091
+IFPB,Instituto Federal da Paraíba,Campus Avançado Soledade,2016,PB,Soledade,-7.05829,-36.3668
+IFPB,Instituto Federal da Paraíba,Campus Avançado Soledade,2016,PB,Soledade,-28.8306,-52.5131
+IFSP,Instituto Federal de São Paulo,Campus Sorocaba,2016,SP,Sorocaba,-23.4969,-47.4451
+IFAM,Instituto Federal do Amazonas,Campus Tefé,2016,AM,Tefé,-3.36822,-64.7193
+IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Teófilo Otoni,2016,MG,Teófilo Otoni,-17.8595,-41.5087
+IF Goiano,Instituto Federal Goiano,Campus Trindade,2016,GO,Trindade,-16.6517,-49.4927
+IF Goiano,Instituto Federal Goiano,Campus Trindade,2016,GO,Trindade,-7.759,-40.2647
+IFSP,Instituto Federal de São Paulo,Campus Avançado Tupã,2016,SP,Tupã,-21.9335,-50.5191
+IFRS,Instituto Federal do Rio Grande do Sul,Campus Viamão,2016,RS,Viamão,-30.0819,-51.0194
+IF Baiano,Instituto Federal Baiano,Campus Xique-Xique,2016,BA,Xique-Xique,-10.823,-42.7245
+IFPE,Instituto Federal de Pernambuco,Campus Abreu e Lima,2017,PE,Abreu e Lima,-7.90072,-34.8984
+IFCE,Instituto Federal do Ceará,Campus Acopiara,2017,CE,Acopiara,-6.08911,-39.448
+IFCE,Instituto Federal do Ceará,Campus Maranguape,2017,CE,Maranguape,-3.89143,-38.6829
+IFPB,Instituto Federal da Paraíba,Campus Santa Luzia - IFPB,2017,PB,Santa Luzia,-4.06873,-45.69
+IFPB,Instituto Federal da Paraíba,Campus Santa Luzia - IFPB,2017,PB,Santa Luzia,-15.4342,-39.3287
+IFPB,Instituto Federal da Paraíba,Campus Santa Luzia - IFPB,2017,PB,Santa Luzia,-19.7548,-43.8497
+IFPB,Instituto Federal da Paraíba,Campus Santa Luzia - IFPB,2017,PB,Santa Luzia,-6.86092,-36.9178
+IFSP,Instituto Federal de São Paulo,Campus São José do Rio Preto,2017,SP,São José do Rio Preto,-20.8113,-49.3758
+IFPR,Instituto Federal do Paraná,Campus Avançado Arapongas,2018,PR,Arapongas,-23.4153,-51.4259
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Belford Roxo,2018,RJ,Belford Roxo,-22.764,-43.3992
+IFAM,Instituto Federal do Amazonas,Campus Avançado Boca do Acre,2018,AM,Boca do Acre,-8.74232,-67.3919
+IFPB,Instituto Federal da Paraíba,Polo de Inovação João Pessoa,2018,PB,Coronel João Pessoa,-6.24974,-38.4441
+IFSC,Instituto Federal de Santa Catarina,Polo de Inovação Florianópolis,2018,SC,Florianópolis,-27.5945,-48.5477
+IFMG,Instituto Federal de Minas Gerais,Campus Ibirité,2018,MG,Ibirité,-20.0252,-44.0569
+IFAM,Instituto Federal do Amazonas,Campus Avançado Iranduba,2018,AM,Iranduba,-3.27479,-60.19
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Jucurutu,2018,RN,Jucurutu,-6.0306,-37.009
+IFSULDEMINAS,Instituto Federal do Sul de Minas Gerais,Polo de Inovação Machado,2018,MG,Machado,-21.6778,-45.9219
+IFCE,Instituto Federal do Ceará,Campus Avançado Mombaça,2018,CE,Mombaça,-5.73844,-39.63
+IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Natal Zona Leste,2018,RN,Natal,-5.79357,-35.1986
+IFRJ,Instituto Federal do Rio de Janeiro,Campus Niterói - IFRJ,2018,RJ,Niterói,-22.8832,-43.1034
+IF Goiano,Instituto Federal Goiano,Polo de Inovação Rio Verde,2018,GO,Rio Verde,-17.7923,-50.9192
+IFRJ,Instituto Federal do Rio de Janeiro,Campus São João de Meriti,2018,RJ,São João de Meriti,-22.8058,-43.3729
+IFRO,Instituto Federal de Rondônia,Campus Avançado São Miguel do Guaporé,2018,RO,São Miguel do Guaporé,-11.6953,-62.7192
+IFSP,Instituto Federal de São Paulo,Campus Avançado São Paulo - São Miguel,2018,SP,São Paulo,-23.5329,-46.6395
+IFPB,Instituto Federal da Paraíba,Campus Avançado Areia,2020,PB,Areia,-6.96396,-35.6977
+IFPB,Instituto Federal da Paraíba,Campus Avançado Pedras de Fogo,2020,PB,Pedras de Fogo,-7.39107,-35.1065
+IFS,Instituto Federal de Sergipe,Campus Poço Redondo,2020,SE,Poço Redondo,-9.80616,-37.6833
+IFMA,Instituto Federal do Maranhão,Campus Presidente Dutra,2020,MA,Presidente Dutra,-11.2923,-41.9843
+IFMA,Instituto Federal do Maranhão,Campus Presidente Dutra,2020,MA,Presidente Dutra,-5.2898,-44.495
+IFG,Instituto Federal de Goiás,Polo de Inovação Goiânia,2021,GO,Goiânia,-16.6864,-49.2643
+IFF,Instituto Federal Fluminense,Campus Itaboraí,2021,RJ,Itaboraí,-22.7565,-42.8639
+IFAM,Instituto Federal do Amazonas,Polo de Inovação Manaus,2021,AM,Manaus,-3.11866,-60.0212
+IFSP,Instituto Federal de São Paulo,Polo de Inovação Matão,2021,SP,Matão,-21.6025,-48.364
+IFTM,Instituto Federal do Triângulo Mineiro,Polo de Inovação Uberaba,2021,MG,Uberaba,-19.7472,-47.9381
+IFSP,Instituto Federal de São Paulo,Campus Bauru,2022,SP,Bauru,-22.3246,-49.0871
+IFES,Instituto Federal do Espírito Santo,Campus Laranja da Terra,2022,ES,Laranja da Terra,-19.8994,-41.0621
+IFSP,Instituto Federal de São Paulo,Campus Miracatu,2022,SP,Miracatu,-24.2766,-47.4625
+IFES,Instituto Federal do Espírito Santo,Campus Pedro Canário,2022,ES,Pedro Canário,-18.3004,-39.9574
+IFES,Instituto Federal do Espírito Santo,Campus Presidente Kennedy,2022,ES,Presidente Kennedy,-8.5406,-48.5062
+IFES,Instituto Federal do Espírito Santo,Campus Presidente Kennedy,2022,ES,Presidente Kennedy,-21.0964,-41.0468
+IFSP,Instituto Federal de São Paulo,Campus Presidente Prudente,2022,SP,Presidente Prudente,-22.1207,-51.3925
+IFSP,Instituto Federal de São Paulo,Campus Rio Claro,2022,SP,Rio Claro,-22.72,-44.1419
+IFSP,Instituto Federal de São Paulo,Campus Rio Claro,2022,SP,Rio Claro,-22.3984,-47.5546
